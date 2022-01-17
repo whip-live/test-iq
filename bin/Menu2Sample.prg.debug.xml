@@ -10,8 +10,8 @@
         <entry filename="/home/gab/Projects/whip/test-iq/source/TestIqView.mc" id="4" lineNum="34" parent="globals/TestIqView" pc="268435530" symbol="onUpdate"/>
         <entry filename="/home/gab/Projects/whip/test-iq/source/TestIqView.mc" id="4" lineNum="36" parent="globals/TestIqView" pc="268435534" symbol="onUpdate"/>
         <entry filename="/home/gab/Projects/whip/test-iq/source/TestIqView.mc" id="5" lineNum="42" parent="globals/TestIqView" pc="268435555" symbol="onHide"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/TestIqView.mc" id="6" lineNum="13" parent="globals/TestIqView" pc="268444731" symbol="&lt;init&gt;"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/TestIqView.mc" id="6" lineNum="13" parent="globals/TestIqView" pc="268444731" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/TestIqView.mc" id="6" lineNum="13" parent="globals/TestIqView" pc="268444879" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/TestIqView.mc" id="6" lineNum="13" parent="globals/TestIqView" pc="268444879" symbol="&lt;init&gt;"/>
         <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="8" lineNum="12" parent="globals" pc="268435560" symbol="pushWrapCustom"/>
         <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="8" lineNum="13" parent="globals" pc="268435572" symbol="pushWrapCustom"/>
         <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="8" lineNum="14" parent="globals" pc="268435617" symbol="pushWrapCustom"/>
@@ -46,8 +46,8 @@
         <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="12" lineNum="63" parent="globals/WrapTopMenu" pc="268436670" symbol="drawFooter"/>
         <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="12" lineNum="64" parent="globals/WrapTopMenu" pc="268436758" symbol="drawFooter"/>
         <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="12" lineNum="65" parent="globals/WrapTopMenu" pc="268436794" symbol="drawFooter"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="13" lineNum="30" parent="globals/WrapTopMenu" pc="268444788" symbol="&lt;init&gt;"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="13" lineNum="30" parent="globals/WrapTopMenu" pc="268444788" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="13" lineNum="30" parent="globals/WrapTopMenu" pc="268444936" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="13" lineNum="30" parent="globals/WrapTopMenu" pc="268444936" symbol="&lt;init&gt;"/>
         <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="14" lineNum="77" parent="globals/WrapBottomMenu" pc="268436945" symbol="initialize"/>
         <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="14" lineNum="78" parent="globals/WrapBottomMenu" pc="268436949" symbol="initialize"/>
         <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="15" lineNum="83" parent="globals/WrapBottomMenu" pc="268436978" symbol="drawTitle"/>
@@ -62,8 +62,8 @@
         <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="15" lineNum="92" parent="globals/WrapBottomMenu" pc="268437217" symbol="drawTitle"/>
         <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="15" lineNum="93" parent="globals/WrapBottomMenu" pc="268437311" symbol="drawTitle"/>
         <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="15" lineNum="94" parent="globals/WrapBottomMenu" pc="268437347" symbol="drawTitle"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="16" lineNum="72" parent="globals/WrapBottomMenu" pc="268444921" symbol="&lt;init&gt;"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="16" lineNum="72" parent="globals/WrapBottomMenu" pc="268444921" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="16" lineNum="72" parent="globals/WrapBottomMenu" pc="268445088" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="16" lineNum="72" parent="globals/WrapBottomMenu" pc="268445088" symbol="&lt;init&gt;"/>
         <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="17" lineNum="104" parent="globals/WrapTopCustomDelegate" pc="268437489" symbol="initialize"/>
         <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="17" lineNum="105" parent="globals/WrapTopCustomDelegate" pc="268437493" symbol="initialize"/>
         <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="18" lineNum="110" parent="globals/WrapTopCustomDelegate" pc="268437512" symbol="onSelect"/>
@@ -76,8 +76,8 @@
         <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="20" lineNum="126" parent="globals/WrapTopCustomDelegate" pc="268437607" symbol="onWrap"/>
         <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="21" lineNum="130" parent="globals/WrapTopCustomDelegate" pc="268437611" symbol="onFooter"/>
         <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="21" lineNum="131" parent="globals/WrapTopCustomDelegate" pc="268437615" symbol="onFooter"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="22" lineNum="101" parent="globals/WrapTopCustomDelegate" pc="268444959" symbol="&lt;init&gt;"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="22" lineNum="101" parent="globals/WrapTopCustomDelegate" pc="268444959" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="22" lineNum="101" parent="globals/WrapTopCustomDelegate" pc="268445126" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="22" lineNum="101" parent="globals/WrapTopCustomDelegate" pc="268445126" symbol="&lt;init&gt;"/>
         <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="23" lineNum="139" parent="globals/WrapBottomCustomDelegate" pc="268437632" symbol="initialize"/>
         <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="23" lineNum="140" parent="globals/WrapBottomCustomDelegate" pc="268437636" symbol="initialize"/>
         <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="24" lineNum="145" parent="globals/WrapBottomCustomDelegate" pc="268437655" symbol="onSelect"/>
@@ -91,8 +91,8 @@
         <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="26" lineNum="162" parent="globals/WrapBottomCustomDelegate" pc="268437790" symbol="onWrap"/>
         <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="27" lineNum="166" parent="globals/WrapBottomCustomDelegate" pc="268437794" symbol="onTitle"/>
         <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="27" lineNum="167" parent="globals/WrapBottomCustomDelegate" pc="268437798" symbol="onTitle"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="28" lineNum="136" parent="globals/WrapBottomCustomDelegate" pc="268444845" symbol="&lt;init&gt;"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="28" lineNum="136" parent="globals/WrapBottomCustomDelegate" pc="268444845" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="28" lineNum="136" parent="globals/WrapBottomCustomDelegate" pc="268444993" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="28" lineNum="136" parent="globals/WrapBottomCustomDelegate" pc="268444993" symbol="&lt;init&gt;"/>
         <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="29" lineNum="182" parent="globals/CustomWrapItem" pc="268437827" symbol="initialize"/>
         <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="29" lineNum="183" parent="globals/CustomWrapItem" pc="268437831" symbol="initialize"/>
         <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="29" lineNum="184" parent="globals/CustomWrapItem" pc="268437857" symbol="initialize"/>
@@ -106,274 +106,283 @@
         <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="30" lineNum="198" parent="globals/CustomWrapItem" pc="268437977" symbol="draw"/>
         <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="30" lineNum="201" parent="globals/CustomWrapItem" pc="268437992" symbol="draw"/>
         <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="30" lineNum="202" parent="globals/CustomWrapItem" pc="268438024" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="31" lineNum="173" parent="globals/CustomWrapItem" pc="268444978" symbol="&lt;init&gt;"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="31" lineNum="173" parent="globals/CustomWrapItem" pc="268444978" symbol="&lt;init&gt;"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="33" lineNum="12" parent="globals" pc="268438106" symbol="pushImagesCustom"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="33" lineNum="13" parent="globals" pc="268438118" symbol="pushImagesCustom"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="33" lineNum="14" parent="globals" pc="268438163" symbol="pushImagesCustom"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="33" lineNum="15" parent="globals" pc="268438250" symbol="pushImagesCustom"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="33" lineNum="16" parent="globals" pc="268438337" symbol="pushImagesCustom"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="33" lineNum="17" parent="globals" pc="268438424" symbol="pushImagesCustom"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="33" lineNum="18" parent="globals" pc="268438511" symbol="pushImagesCustom"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="33" lineNum="19" parent="globals" pc="268438598" symbol="pushImagesCustom"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="34" lineNum="29" parent="globals/ImagesMenu" pc="268438655" symbol="initialize"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="34" lineNum="30" parent="globals/ImagesMenu" pc="268438659" symbol="initialize"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="35" lineNum="35" parent="globals/ImagesMenu" pc="268438688" symbol="drawTitle"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="35" lineNum="36" parent="globals/ImagesMenu" pc="268438692" symbol="drawTitle"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="35" lineNum="37" parent="globals/ImagesMenu" pc="268438728" symbol="drawTitle"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="35" lineNum="38" parent="globals/ImagesMenu" pc="268438745" symbol="drawTitle"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="35" lineNum="39" parent="globals/ImagesMenu" pc="268438807" symbol="drawTitle"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="35" lineNum="40" parent="globals/ImagesMenu" pc="268438824" symbol="drawTitle"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="35" lineNum="41" parent="globals/ImagesMenu" pc="268438860" symbol="drawTitle"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="36" lineNum="24" parent="globals/ImagesMenu" pc="268444750" symbol="&lt;init&gt;"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="36" lineNum="24" parent="globals/ImagesMenu" pc="268444750" symbol="&lt;init&gt;"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="37" lineNum="49" parent="globals/ImagesCustomDelegate" pc="268438949" symbol="initialize"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="37" lineNum="50" parent="globals/ImagesCustomDelegate" pc="268438953" symbol="initialize"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="38" lineNum="55" parent="globals/ImagesCustomDelegate" pc="268438972" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="38" lineNum="56" parent="globals/ImagesCustomDelegate" pc="268438976" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="39" lineNum="60" parent="globals/ImagesCustomDelegate" pc="268438993" symbol="onBack"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="39" lineNum="61" parent="globals/ImagesCustomDelegate" pc="268438997" symbol="onBack"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="40" lineNum="46" parent="globals/ImagesCustomDelegate" pc="268444997" symbol="&lt;init&gt;"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="40" lineNum="46" parent="globals/ImagesCustomDelegate" pc="268444997" symbol="&lt;init&gt;"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="41" lineNum="77" parent="globals/CustomImagesItem" pc="268439026" symbol="initialize"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="41" lineNum="78" parent="globals/CustomImagesItem" pc="268439030" symbol="initialize"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="41" lineNum="79" parent="globals/CustomImagesItem" pc="268439056" symbol="initialize"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="41" lineNum="80" parent="globals/CustomImagesItem" pc="268439066" symbol="initialize"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="41" lineNum="81" parent="globals/CustomImagesItem" pc="268439076" symbol="initialize"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="42" lineNum="86" parent="globals/CustomImagesItem" pc="268439108" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="42" lineNum="87" parent="globals/CustomImagesItem" pc="268439112" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="42" lineNum="88" parent="globals/CustomImagesItem" pc="268439126" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="42" lineNum="89" parent="globals/CustomImagesItem" pc="268439154" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="42" lineNum="90" parent="globals/CustomImagesItem" pc="268439168" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="42" lineNum="93" parent="globals/CustomImagesItem" pc="268439185" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="42" lineNum="94" parent="globals/CustomImagesItem" pc="268439199" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="42" lineNum="95" parent="globals/CustomImagesItem" pc="268439235" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="42" lineNum="98" parent="globals/CustomImagesItem" pc="268439250" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="42" lineNum="100" parent="globals/CustomImagesItem" pc="268439274" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="42" lineNum="101" parent="globals/CustomImagesItem" pc="268439310" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="43" lineNum="67" parent="globals/CustomImagesItem" pc="268445016" symbol="&lt;init&gt;"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="43" lineNum="67" parent="globals/CustomImagesItem" pc="268445016" symbol="&lt;init&gt;"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/TestIqApp.mc" id="45" lineNum="16" parent="globals/TestIq" pc="268439386" symbol="initialize"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/TestIqApp.mc" id="45" lineNum="17" parent="globals/TestIq" pc="268439390" symbol="initialize"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/TestIqApp.mc" id="46" lineNum="22" parent="globals/TestIq" pc="268439409" symbol="onStart"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/TestIqApp.mc" id="47" lineNum="27" parent="globals/TestIq" pc="268439414" symbol="onStop"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/TestIqApp.mc" id="48" lineNum="32" parent="globals/TestIq" pc="268439419" symbol="getInitialView"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/TestIqApp.mc" id="48" lineNum="33" parent="globals/TestIq" pc="268439423" symbol="getInitialView"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/TestIqApp.mc" id="49" lineNum="13" parent="globals/TestIq" pc="268444807" symbol="&lt;init&gt;"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/TestIqApp.mc" id="49" lineNum="13" parent="globals/TestIq" pc="268444807" symbol="&lt;init&gt;"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="51" lineNum="12" parent="globals" pc="268439499" symbol="pushBasicCustom"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="51" lineNum="13" parent="globals" pc="268439511" symbol="pushBasicCustom"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="51" lineNum="19" parent="globals" pc="268439689" symbol="pushBasicCustom"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="51" lineNum="20" parent="globals" pc="268439737" symbol="pushBasicCustom"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="51" lineNum="21" parent="globals" pc="268439785" symbol="pushBasicCustom"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="51" lineNum="22" parent="globals" pc="268439833" symbol="pushBasicCustom"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="51" lineNum="23" parent="globals" pc="268439881" symbol="pushBasicCustom"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="51" lineNum="24" parent="globals" pc="268439929" symbol="pushBasicCustom"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="51" lineNum="25" parent="globals" pc="268439977" symbol="pushBasicCustom"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="51" lineNum="26" parent="globals" pc="268440025" symbol="pushBasicCustom"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="52" lineNum="36" parent="globals/ItemView" pc="268440082" symbol="initialize"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="52" lineNum="37" parent="globals/ItemView" pc="268440086" symbol="initialize"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="52" lineNum="38" parent="globals/ItemView" pc="268440104" symbol="initialize"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="53" lineNum="49" parent="globals/ItemView" pc="268440255" symbol="onUpdate"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="53" lineNum="50" parent="globals/ItemView" pc="268440259" symbol="onUpdate"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="53" lineNum="51" parent="globals/ItemView" pc="268440295" symbol="onUpdate"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="53" lineNum="52" parent="globals/ItemView" pc="268440307" symbol="onUpdate"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="54" lineNum="30" parent="globals/ItemView" pc="268444864" symbol="&lt;init&gt;"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="54" lineNum="30" parent="globals/ItemView" pc="268444864" symbol="&lt;init&gt;"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="55" lineNum="60" parent="globals/BasicCustomDelegate" pc="268440328" symbol="initialize"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="55" lineNum="61" parent="globals/BasicCustomDelegate" pc="268440332" symbol="initialize"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="56" lineNum="66" parent="globals/BasicCustomDelegate" pc="268440351" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="56" lineNum="67" parent="globals/BasicCustomDelegate" pc="268440355" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="56" lineNum="68" parent="globals/BasicCustomDelegate" pc="268440421" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="57" lineNum="72" parent="globals/BasicCustomDelegate" pc="268440438" symbol="onBack"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="57" lineNum="73" parent="globals/BasicCustomDelegate" pc="268440442" symbol="onBack"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="58" lineNum="79" parent="globals/BasicCustomDelegate" pc="268440471" symbol="onWrap"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="58" lineNum="81" parent="globals/BasicCustomDelegate" pc="268440475" symbol="onWrap"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="59" lineNum="57" parent="globals/BasicCustomDelegate" pc="268444902" symbol="&lt;init&gt;"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="59" lineNum="57" parent="globals/BasicCustomDelegate" pc="268444902" symbol="&lt;init&gt;"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="60" lineNum="94" parent="globals/CustomItem" pc="268440479" symbol="initialize"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="60" lineNum="95" parent="globals/CustomItem" pc="268440483" symbol="initialize"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="60" lineNum="96" parent="globals/CustomItem" pc="268440509" symbol="initialize"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="61" lineNum="101" parent="globals/CustomItem" pc="268440520" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="61" lineNum="102" parent="globals/CustomItem" pc="268440524" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="61" lineNum="103" parent="globals/CustomItem" pc="268440538" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="61" lineNum="104" parent="globals/CustomItem" pc="268440552" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="61" lineNum="107" parent="globals/CustomItem" pc="268440569" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="61" lineNum="108" parent="globals/CustomItem" pc="268440583" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="61" lineNum="109" parent="globals/CustomItem" pc="268440619" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="61" lineNum="112" parent="globals/CustomItem" pc="268440634" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="61" lineNum="113" parent="globals/CustomItem" pc="268440670" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="61" lineNum="114" parent="globals/CustomItem" pc="268440751" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="61" lineNum="115" parent="globals/CustomItem" pc="268440787" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="61" lineNum="116" parent="globals/CustomItem" pc="268440825" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="62" lineNum="121" parent="globals/CustomItem" pc="268440888" symbol="getLabel"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="62" lineNum="122" parent="globals/CustomItem" pc="268440892" symbol="getLabel"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="63" lineNum="87" parent="globals/CustomItem" pc="268444644" symbol="&lt;init&gt;"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="63" lineNum="87" parent="globals/CustomItem" pc="268444644" symbol="&lt;init&gt;"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="64" lineNum="130" parent="globals/DrawableMenuFooter" pc="268440902" symbol="initialize"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="64" lineNum="131" parent="globals/DrawableMenuFooter" pc="268440906" symbol="initialize"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="65" lineNum="136" parent="globals/DrawableMenuFooter" pc="268440931" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="65" lineNum="137" parent="globals/DrawableMenuFooter" pc="268440935" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="65" lineNum="138" parent="globals/DrawableMenuFooter" pc="268440971" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="66" lineNum="127" parent="globals/DrawableMenuFooter" pc="268444826" symbol="&lt;init&gt;"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="66" lineNum="127" parent="globals/DrawableMenuFooter" pc="268444826" symbol="&lt;init&gt;"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="68" lineNum="16" parent="globals/MenuTestIqDelegate" pc="268441010" symbol="initialize"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="68" lineNum="17" parent="globals/MenuTestIqDelegate" pc="268441014" symbol="initialize"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="69" lineNum="22" parent="globals/MenuTestIqDelegate" pc="268441033" symbol="onMenu"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="69" lineNum="24" parent="globals/MenuTestIqDelegate" pc="268441037" symbol="onMenu"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="69" lineNum="27" parent="globals/MenuTestIqDelegate" pc="268441105" symbol="onMenu"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="69" lineNum="28" parent="globals/MenuTestIqDelegate" pc="268441159" symbol="onMenu"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="69" lineNum="29" parent="globals/MenuTestIqDelegate" pc="268441209" symbol="onMenu"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="69" lineNum="30" parent="globals/MenuTestIqDelegate" pc="268441259" symbol="onMenu"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="69" lineNum="31" parent="globals/MenuTestIqDelegate" pc="268441309" symbol="onMenu"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="69" lineNum="32" parent="globals/MenuTestIqDelegate" pc="268441365" symbol="onMenu"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="70" lineNum="13" parent="globals/MenuTestIqDelegate" pc="268444769" symbol="&lt;init&gt;"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="70" lineNum="13" parent="globals/MenuTestIqDelegate" pc="268444769" symbol="&lt;init&gt;"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="71" lineNum="40" parent="globals/DrawableMenuTitle" pc="268441369" symbol="initialize"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="71" lineNum="41" parent="globals/DrawableMenuTitle" pc="268441373" symbol="initialize"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="72" lineNum="46" parent="globals/DrawableMenuTitle" pc="268441398" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="72" lineNum="47" parent="globals/DrawableMenuTitle" pc="268441402" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="72" lineNum="48" parent="globals/DrawableMenuTitle" pc="268441409" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="72" lineNum="49" parent="globals/DrawableMenuTitle" pc="268441450" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="72" lineNum="50" parent="globals/DrawableMenuTitle" pc="268441463" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="72" lineNum="52" parent="globals/DrawableMenuTitle" pc="268441493" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="72" lineNum="53" parent="globals/DrawableMenuTitle" pc="268441521" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="72" lineNum="54" parent="globals/DrawableMenuTitle" pc="268441552" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="72" lineNum="55" parent="globals/DrawableMenuTitle" pc="268441562" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="72" lineNum="57" parent="globals/DrawableMenuTitle" pc="268441581" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="72" lineNum="58" parent="globals/DrawableMenuTitle" pc="268441617" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="72" lineNum="60" parent="globals/DrawableMenuTitle" pc="268441629" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="72" lineNum="61" parent="globals/DrawableMenuTitle" pc="268441647" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="72" lineNum="62" parent="globals/DrawableMenuTitle" pc="268441683" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="73" lineNum="37" parent="globals/DrawableMenuTitle" pc="268444883" symbol="&lt;init&gt;"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="73" lineNum="37" parent="globals/DrawableMenuTitle" pc="268444883" symbol="&lt;init&gt;"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="75" lineNum="15" parent="globals/Menu2TestMenu2Delegate" pc="268441742" symbol="initialize"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="75" lineNum="16" parent="globals/Menu2TestMenu2Delegate" pc="268441746" symbol="initialize"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="76" lineNum="21" parent="globals/Menu2TestMenu2Delegate" pc="268441765" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="76" lineNum="22" parent="globals/Menu2TestMenu2Delegate" pc="268441769" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="76" lineNum="23" parent="globals/Menu2TestMenu2Delegate" pc="268441782" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="76" lineNum="26" parent="globals/Menu2TestMenu2Delegate" pc="268441801" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="76" lineNum="27" parent="globals/Menu2TestMenu2Delegate" pc="268441848" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="76" lineNum="28" parent="globals/Menu2TestMenu2Delegate" pc="268441962" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="76" lineNum="29" parent="globals/Menu2TestMenu2Delegate" pc="268442076" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="76" lineNum="30" parent="globals/Menu2TestMenu2Delegate" pc="268442159" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="76" lineNum="31" parent="globals/Menu2TestMenu2Delegate" pc="268442218" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="76" lineNum="34" parent="globals/Menu2TestMenu2Delegate" pc="268442237" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="76" lineNum="35" parent="globals/Menu2TestMenu2Delegate" pc="268442284" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="76" lineNum="36" parent="globals/Menu2TestMenu2Delegate" pc="268442371" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="76" lineNum="37" parent="globals/Menu2TestMenu2Delegate" pc="268442458" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="76" lineNum="38" parent="globals/Menu2TestMenu2Delegate" pc="268442514" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="76" lineNum="39" parent="globals/Menu2TestMenu2Delegate" pc="268442573" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="76" lineNum="42" parent="globals/Menu2TestMenu2Delegate" pc="268442592" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="76" lineNum="43" parent="globals/Menu2TestMenu2Delegate" pc="268442639" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="76" lineNum="44" parent="globals/Menu2TestMenu2Delegate" pc="268442667" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="76" lineNum="45" parent="globals/Menu2TestMenu2Delegate" pc="268442695" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="76" lineNum="46" parent="globals/Menu2TestMenu2Delegate" pc="268442723" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="76" lineNum="47" parent="globals/Menu2TestMenu2Delegate" pc="268442816" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="76" lineNum="48" parent="globals/Menu2TestMenu2Delegate" pc="268442909" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="76" lineNum="49" parent="globals/Menu2TestMenu2Delegate" pc="268442971" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="76" lineNum="50" parent="globals/Menu2TestMenu2Delegate" pc="268443030" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="76" lineNum="53" parent="globals/Menu2TestMenu2Delegate" pc="268443049" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="76" lineNum="54" parent="globals/Menu2TestMenu2Delegate" pc="268443096" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="76" lineNum="55" parent="globals/Menu2TestMenu2Delegate" pc="268443146" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="76" lineNum="56" parent="globals/Menu2TestMenu2Delegate" pc="268443196" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="76" lineNum="57" parent="globals/Menu2TestMenu2Delegate" pc="268443246" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="76" lineNum="59" parent="globals/Menu2TestMenu2Delegate" pc="268443305" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="77" lineNum="64" parent="globals/Menu2TestMenu2Delegate" pc="268443322" symbol="onBack"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="77" lineNum="65" parent="globals/Menu2TestMenu2Delegate" pc="268443326" symbol="onBack"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="78" lineNum="12" parent="globals/Menu2TestMenu2Delegate" pc="268445035" symbol="&lt;init&gt;"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="78" lineNum="12" parent="globals/Menu2TestMenu2Delegate" pc="268445035" symbol="&lt;init&gt;"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="79" lineNum="73" parent="globals/Menu2SampleSubMenuDelegate" pc="268443355" symbol="initialize"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="79" lineNum="74" parent="globals/Menu2SampleSubMenuDelegate" pc="268443359" symbol="initialize"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="80" lineNum="79" parent="globals/Menu2SampleSubMenuDelegate" pc="268443378" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="80" lineNum="83" parent="globals/Menu2SampleSubMenuDelegate" pc="268443382" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="80" lineNum="84" parent="globals/Menu2SampleSubMenuDelegate" pc="268443400" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="80" lineNum="86" parent="globals/Menu2SampleSubMenuDelegate" pc="268443435" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="81" lineNum="90" parent="globals/Menu2SampleSubMenuDelegate" pc="268443452" symbol="onBack"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="81" lineNum="91" parent="globals/Menu2SampleSubMenuDelegate" pc="268443456" symbol="onBack"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="82" lineNum="95" parent="globals/Menu2SampleSubMenuDelegate" pc="268443485" symbol="onDone"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="82" lineNum="96" parent="globals/Menu2SampleSubMenuDelegate" pc="268443489" symbol="onDone"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="83" lineNum="70" parent="globals/Menu2SampleSubMenuDelegate" pc="268444940" symbol="&lt;init&gt;"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="83" lineNum="70" parent="globals/Menu2SampleSubMenuDelegate" pc="268444940" symbol="&lt;init&gt;"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="84" lineNum="104" parent="globals/Menu2SampleCustomDelegate" pc="268443518" symbol="initialize"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="84" lineNum="105" parent="globals/Menu2SampleCustomDelegate" pc="268443522" symbol="initialize"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="85" lineNum="110" parent="globals/Menu2SampleCustomDelegate" pc="268443541" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="85" lineNum="111" parent="globals/Menu2SampleCustomDelegate" pc="268443545" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="85" lineNum="114" parent="globals/Menu2SampleCustomDelegate" pc="268443558" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="85" lineNum="115" parent="globals/Menu2SampleCustomDelegate" pc="268443569" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="85" lineNum="116" parent="globals/Menu2SampleCustomDelegate" pc="268443588" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="85" lineNum="117" parent="globals/Menu2SampleCustomDelegate" pc="268443599" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="85" lineNum="118" parent="globals/Menu2SampleCustomDelegate" pc="268443618" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="85" lineNum="119" parent="globals/Menu2SampleCustomDelegate" pc="268443629" symbol="onSelect"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="86" lineNum="124" parent="globals/Menu2SampleCustomDelegate" pc="268443649" symbol="onBack"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="86" lineNum="125" parent="globals/Menu2SampleCustomDelegate" pc="268443653" symbol="onBack"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="87" lineNum="101" parent="globals/Menu2SampleCustomDelegate" pc="268444663" symbol="&lt;init&gt;"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="87" lineNum="101" parent="globals/Menu2SampleCustomDelegate" pc="268444663" symbol="&lt;init&gt;"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="88" lineNum="141" parent="globals/CustomIcon" pc="268443682" symbol="initialize"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="88" lineNum="142" parent="globals/CustomIcon" pc="268443686" symbol="initialize"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="88" lineNum="143" parent="globals/CustomIcon" pc="268443710" symbol="initialize"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="89" lineNum="148" parent="globals/CustomIcon" pc="268443724" symbol="nextState"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="89" lineNum="149" parent="globals/CustomIcon" pc="268443728" symbol="nextState"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="89" lineNum="150" parent="globals/CustomIcon" pc="268443747" symbol="nextState"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="89" lineNum="151" parent="globals/CustomIcon" pc="268443776" symbol="nextState"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="89" lineNum="154" parent="globals/CustomIcon" pc="268443792" symbol="nextState"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="90" lineNum="159" parent="globals/CustomIcon" pc="268443811" symbol="getString"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="90" lineNum="160" parent="globals/CustomIcon" pc="268443815" symbol="getString"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="91" lineNum="166" parent="globals/CustomIcon" pc="268443834" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="91" lineNum="167" parent="globals/CustomIcon" pc="268443838" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="91" lineNum="168" parent="globals/CustomIcon" pc="268443857" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="91" lineNum="169" parent="globals/CustomIcon" pc="268443873" symbol="draw"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="92" lineNum="133" parent="globals/CustomIcon" pc="268444399" symbol="&lt;init&gt;"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="92" lineNum="135" parent="globals/CustomIcon" pc="268444417" symbol="&lt;init&gt;"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="92" lineNum="137" parent="globals/CustomIcon" pc="268444551" symbol="&lt;init&gt;"/>
-        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="92" lineNum="133" parent="globals/CustomIcon" pc="268444399" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="94" lineNum="18" parent="globals/Rez/Drawables/MenuForeground" pc="268443886" symbol="initialize"/>
-        <entry filename="Rez" id="94" lineNum="19" parent="globals/Rez/Drawables/MenuForeground" pc="268443890" symbol="initialize"/>
-        <entry filename="Rez" id="95" lineNum="22" parent="globals/Rez/Drawables/MenuForeground" pc="268443915" symbol="draw"/>
-        <entry filename="Rez" id="95" lineNum="23" parent="globals/Rez/Drawables/MenuForeground" pc="268443919" symbol="draw"/>
-        <entry filename="Rez" id="95" lineNum="24" parent="globals/Rez/Drawables/MenuForeground" pc="268443955" symbol="draw"/>
-        <entry filename="Rez" id="95" lineNum="25" parent="globals/Rez/Drawables/MenuForeground" pc="268443987" symbol="draw"/>
-        <entry filename="Rez" id="96" lineNum="16" parent="globals/Rez/Drawables/MenuForeground" pc="268444707" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="96" lineNum="16" parent="globals/Rez/Drawables/MenuForeground" pc="268444707" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="97" lineNum="2" parent="globals/Rez/Drawables" pc="268444706" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="98" lineNum="32" parent="globals/Rez/Fonts" pc="268444727" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="99" lineNum="34" parent="globals/Rez/JsonData" pc="268444729" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="100" lineNum="43" parent="globals/Rez/Layouts" pc="268444024" symbol="MainLayout"/>
-        <entry filename="Rez" id="100" lineNum="45" parent="globals/Rez/Layouts" pc="268444036" symbol="MainLayout"/>
-        <entry filename="Rez" id="100" lineNum="46" parent="globals/Rez/Layouts" pc="268444148" symbol="MainLayout"/>
-        <entry filename="Rez" id="100" lineNum="47" parent="globals/Rez/Layouts" pc="268444188" symbol="MainLayout"/>
-        <entry filename="Rez" id="100" lineNum="49" parent="globals/Rez/Layouts" pc="268444370" symbol="MainLayout"/>
-        <entry filename="Rez" id="101" lineNum="36" parent="globals/Rez/Layouts" pc="268444728" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="102" lineNum="54" parent="globals/Rez/Menus" pc="268444726" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="103" lineNum="56" parent="globals/Rez/Strings" pc="268444730" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="104" lineNum="1" parent="globals/Rez" pc="268444682" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="104" lineNum="1" parent="globals/Rez" pc="268444682" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="31" lineNum="173" parent="globals/CustomWrapItem" pc="268445145" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleWrapCustom.mc" id="31" lineNum="173" parent="globals/CustomWrapItem" pc="268445145" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/TestIqMenuView.mc" id="33" lineNum="5" parent="globals/TestIqMenuView" pc="268438106" symbol="initialize"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/TestIqMenuView.mc" id="33" lineNum="6" parent="globals/TestIqMenuView" pc="268438110" symbol="initialize"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/TestIqMenuView.mc" id="34" lineNum="3" parent="globals/TestIqMenuView" pc="268445069" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/TestIqMenuView.mc" id="34" lineNum="3" parent="globals/TestIqMenuView" pc="268445069" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="36" lineNum="12" parent="globals" pc="268438129" symbol="pushImagesCustom"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="36" lineNum="13" parent="globals" pc="268438141" symbol="pushImagesCustom"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="36" lineNum="14" parent="globals" pc="268438186" symbol="pushImagesCustom"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="36" lineNum="15" parent="globals" pc="268438273" symbol="pushImagesCustom"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="36" lineNum="16" parent="globals" pc="268438360" symbol="pushImagesCustom"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="36" lineNum="17" parent="globals" pc="268438447" symbol="pushImagesCustom"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="36" lineNum="18" parent="globals" pc="268438534" symbol="pushImagesCustom"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="36" lineNum="19" parent="globals" pc="268438621" symbol="pushImagesCustom"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="37" lineNum="29" parent="globals/ImagesMenu" pc="268438678" symbol="initialize"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="37" lineNum="30" parent="globals/ImagesMenu" pc="268438682" symbol="initialize"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="38" lineNum="35" parent="globals/ImagesMenu" pc="268438711" symbol="drawTitle"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="38" lineNum="36" parent="globals/ImagesMenu" pc="268438715" symbol="drawTitle"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="38" lineNum="37" parent="globals/ImagesMenu" pc="268438751" symbol="drawTitle"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="38" lineNum="38" parent="globals/ImagesMenu" pc="268438768" symbol="drawTitle"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="38" lineNum="39" parent="globals/ImagesMenu" pc="268438830" symbol="drawTitle"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="38" lineNum="40" parent="globals/ImagesMenu" pc="268438847" symbol="drawTitle"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="38" lineNum="41" parent="globals/ImagesMenu" pc="268438883" symbol="drawTitle"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="39" lineNum="24" parent="globals/ImagesMenu" pc="268444898" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="39" lineNum="24" parent="globals/ImagesMenu" pc="268444898" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="40" lineNum="49" parent="globals/ImagesCustomDelegate" pc="268438972" symbol="initialize"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="40" lineNum="50" parent="globals/ImagesCustomDelegate" pc="268438976" symbol="initialize"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="41" lineNum="55" parent="globals/ImagesCustomDelegate" pc="268438995" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="41" lineNum="56" parent="globals/ImagesCustomDelegate" pc="268438999" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="42" lineNum="60" parent="globals/ImagesCustomDelegate" pc="268439016" symbol="onBack"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="42" lineNum="61" parent="globals/ImagesCustomDelegate" pc="268439020" symbol="onBack"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="43" lineNum="46" parent="globals/ImagesCustomDelegate" pc="268445164" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="43" lineNum="46" parent="globals/ImagesCustomDelegate" pc="268445164" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="44" lineNum="77" parent="globals/CustomImagesItem" pc="268439049" symbol="initialize"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="44" lineNum="78" parent="globals/CustomImagesItem" pc="268439053" symbol="initialize"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="44" lineNum="79" parent="globals/CustomImagesItem" pc="268439079" symbol="initialize"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="44" lineNum="80" parent="globals/CustomImagesItem" pc="268439089" symbol="initialize"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="44" lineNum="81" parent="globals/CustomImagesItem" pc="268439099" symbol="initialize"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="45" lineNum="86" parent="globals/CustomImagesItem" pc="268439131" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="45" lineNum="87" parent="globals/CustomImagesItem" pc="268439135" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="45" lineNum="88" parent="globals/CustomImagesItem" pc="268439149" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="45" lineNum="89" parent="globals/CustomImagesItem" pc="268439177" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="45" lineNum="90" parent="globals/CustomImagesItem" pc="268439191" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="45" lineNum="93" parent="globals/CustomImagesItem" pc="268439208" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="45" lineNum="94" parent="globals/CustomImagesItem" pc="268439222" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="45" lineNum="95" parent="globals/CustomImagesItem" pc="268439258" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="45" lineNum="98" parent="globals/CustomImagesItem" pc="268439273" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="45" lineNum="100" parent="globals/CustomImagesItem" pc="268439297" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="45" lineNum="101" parent="globals/CustomImagesItem" pc="268439333" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="46" lineNum="67" parent="globals/CustomImagesItem" pc="268445183" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleImagesCustom.mc" id="46" lineNum="67" parent="globals/CustomImagesItem" pc="268445183" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/TestIqApp.mc" id="48" lineNum="16" parent="globals/TestIq" pc="268439409" symbol="initialize"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/TestIqApp.mc" id="48" lineNum="17" parent="globals/TestIq" pc="268439413" symbol="initialize"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/TestIqApp.mc" id="49" lineNum="22" parent="globals/TestIq" pc="268439432" symbol="onStart"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/TestIqApp.mc" id="49" lineNum="23" parent="globals/TestIq" pc="268439436" symbol="onStart"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/TestIqApp.mc" id="49" lineNum="24" parent="globals/TestIq" pc="268439466" symbol="onStart"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/TestIqApp.mc" id="50" lineNum="29" parent="globals/TestIq" pc="268439502" symbol="onStop"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/TestIqApp.mc" id="51" lineNum="34" parent="globals/TestIq" pc="268439507" symbol="getInitialView"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/TestIqApp.mc" id="51" lineNum="35" parent="globals/TestIq" pc="268439511" symbol="getInitialView"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/TestIqApp.mc" id="52" lineNum="38" parent="globals/TestIq" pc="268439587" symbol="startupTimerCallback"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/TestIqApp.mc" id="52" lineNum="39" parent="globals/TestIq" pc="268439591" symbol="startupTimerCallback"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/TestIqApp.mc" id="53" lineNum="13" parent="globals/TestIq" pc="268444955" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/TestIqApp.mc" id="53" lineNum="13" parent="globals/TestIq" pc="268444955" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="55" lineNum="12" parent="globals" pc="268439647" symbol="pushBasicCustom"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="55" lineNum="13" parent="globals" pc="268439659" symbol="pushBasicCustom"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="55" lineNum="19" parent="globals" pc="268439837" symbol="pushBasicCustom"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="55" lineNum="20" parent="globals" pc="268439885" symbol="pushBasicCustom"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="55" lineNum="21" parent="globals" pc="268439933" symbol="pushBasicCustom"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="55" lineNum="22" parent="globals" pc="268439981" symbol="pushBasicCustom"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="55" lineNum="23" parent="globals" pc="268440029" symbol="pushBasicCustom"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="55" lineNum="24" parent="globals" pc="268440077" symbol="pushBasicCustom"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="55" lineNum="25" parent="globals" pc="268440125" symbol="pushBasicCustom"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="55" lineNum="26" parent="globals" pc="268440173" symbol="pushBasicCustom"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="56" lineNum="36" parent="globals/ItemView" pc="268440230" symbol="initialize"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="56" lineNum="37" parent="globals/ItemView" pc="268440234" symbol="initialize"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="56" lineNum="38" parent="globals/ItemView" pc="268440252" symbol="initialize"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="57" lineNum="49" parent="globals/ItemView" pc="268440403" symbol="onUpdate"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="57" lineNum="50" parent="globals/ItemView" pc="268440407" symbol="onUpdate"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="57" lineNum="51" parent="globals/ItemView" pc="268440443" symbol="onUpdate"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="57" lineNum="52" parent="globals/ItemView" pc="268440455" symbol="onUpdate"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="58" lineNum="30" parent="globals/ItemView" pc="268445012" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="58" lineNum="30" parent="globals/ItemView" pc="268445012" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="59" lineNum="60" parent="globals/BasicCustomDelegate" pc="268440476" symbol="initialize"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="59" lineNum="61" parent="globals/BasicCustomDelegate" pc="268440480" symbol="initialize"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="60" lineNum="66" parent="globals/BasicCustomDelegate" pc="268440499" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="60" lineNum="67" parent="globals/BasicCustomDelegate" pc="268440503" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="60" lineNum="68" parent="globals/BasicCustomDelegate" pc="268440569" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="61" lineNum="72" parent="globals/BasicCustomDelegate" pc="268440586" symbol="onBack"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="61" lineNum="73" parent="globals/BasicCustomDelegate" pc="268440590" symbol="onBack"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="62" lineNum="79" parent="globals/BasicCustomDelegate" pc="268440619" symbol="onWrap"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="62" lineNum="81" parent="globals/BasicCustomDelegate" pc="268440623" symbol="onWrap"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="63" lineNum="57" parent="globals/BasicCustomDelegate" pc="268445050" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="63" lineNum="57" parent="globals/BasicCustomDelegate" pc="268445050" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="64" lineNum="94" parent="globals/CustomItem" pc="268440627" symbol="initialize"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="64" lineNum="95" parent="globals/CustomItem" pc="268440631" symbol="initialize"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="64" lineNum="96" parent="globals/CustomItem" pc="268440657" symbol="initialize"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="65" lineNum="101" parent="globals/CustomItem" pc="268440668" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="65" lineNum="102" parent="globals/CustomItem" pc="268440672" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="65" lineNum="103" parent="globals/CustomItem" pc="268440686" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="65" lineNum="104" parent="globals/CustomItem" pc="268440700" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="65" lineNum="107" parent="globals/CustomItem" pc="268440717" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="65" lineNum="108" parent="globals/CustomItem" pc="268440731" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="65" lineNum="109" parent="globals/CustomItem" pc="268440767" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="65" lineNum="112" parent="globals/CustomItem" pc="268440782" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="65" lineNum="113" parent="globals/CustomItem" pc="268440818" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="65" lineNum="114" parent="globals/CustomItem" pc="268440899" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="65" lineNum="115" parent="globals/CustomItem" pc="268440935" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="65" lineNum="116" parent="globals/CustomItem" pc="268440973" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="66" lineNum="121" parent="globals/CustomItem" pc="268441036" symbol="getLabel"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="66" lineNum="122" parent="globals/CustomItem" pc="268441040" symbol="getLabel"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="67" lineNum="87" parent="globals/CustomItem" pc="268444792" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="67" lineNum="87" parent="globals/CustomItem" pc="268444792" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="68" lineNum="130" parent="globals/DrawableMenuFooter" pc="268441050" symbol="initialize"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="68" lineNum="131" parent="globals/DrawableMenuFooter" pc="268441054" symbol="initialize"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="69" lineNum="136" parent="globals/DrawableMenuFooter" pc="268441079" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="69" lineNum="137" parent="globals/DrawableMenuFooter" pc="268441083" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="69" lineNum="138" parent="globals/DrawableMenuFooter" pc="268441119" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="70" lineNum="127" parent="globals/DrawableMenuFooter" pc="268444974" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuSampleBasicCustom.mc" id="70" lineNum="127" parent="globals/DrawableMenuFooter" pc="268444974" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="72" lineNum="16" parent="globals/MenuTestIqDelegate" pc="268441158" symbol="initialize"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="72" lineNum="17" parent="globals/MenuTestIqDelegate" pc="268441162" symbol="initialize"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="73" lineNum="22" parent="globals/MenuTestIqDelegate" pc="268441181" symbol="onMenu"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="73" lineNum="24" parent="globals/MenuTestIqDelegate" pc="268441185" symbol="onMenu"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="73" lineNum="27" parent="globals/MenuTestIqDelegate" pc="268441253" symbol="onMenu"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="73" lineNum="28" parent="globals/MenuTestIqDelegate" pc="268441307" symbol="onMenu"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="73" lineNum="29" parent="globals/MenuTestIqDelegate" pc="268441357" symbol="onMenu"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="73" lineNum="30" parent="globals/MenuTestIqDelegate" pc="268441407" symbol="onMenu"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="73" lineNum="31" parent="globals/MenuTestIqDelegate" pc="268441457" symbol="onMenu"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="73" lineNum="32" parent="globals/MenuTestIqDelegate" pc="268441513" symbol="onMenu"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="74" lineNum="13" parent="globals/MenuTestIqDelegate" pc="268444917" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="74" lineNum="13" parent="globals/MenuTestIqDelegate" pc="268444917" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="75" lineNum="40" parent="globals/DrawableMenuTitle" pc="268441517" symbol="initialize"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="75" lineNum="41" parent="globals/DrawableMenuTitle" pc="268441521" symbol="initialize"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="76" lineNum="46" parent="globals/DrawableMenuTitle" pc="268441546" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="76" lineNum="47" parent="globals/DrawableMenuTitle" pc="268441550" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="76" lineNum="48" parent="globals/DrawableMenuTitle" pc="268441557" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="76" lineNum="49" parent="globals/DrawableMenuTitle" pc="268441598" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="76" lineNum="50" parent="globals/DrawableMenuTitle" pc="268441611" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="76" lineNum="52" parent="globals/DrawableMenuTitle" pc="268441641" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="76" lineNum="53" parent="globals/DrawableMenuTitle" pc="268441669" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="76" lineNum="54" parent="globals/DrawableMenuTitle" pc="268441700" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="76" lineNum="55" parent="globals/DrawableMenuTitle" pc="268441710" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="76" lineNum="57" parent="globals/DrawableMenuTitle" pc="268441729" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="76" lineNum="58" parent="globals/DrawableMenuTitle" pc="268441765" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="76" lineNum="60" parent="globals/DrawableMenuTitle" pc="268441777" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="76" lineNum="61" parent="globals/DrawableMenuTitle" pc="268441795" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="76" lineNum="62" parent="globals/DrawableMenuTitle" pc="268441831" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="77" lineNum="37" parent="globals/DrawableMenuTitle" pc="268445031" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestIqDelegate.mc" id="77" lineNum="37" parent="globals/DrawableMenuTitle" pc="268445031" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="79" lineNum="15" parent="globals/Menu2TestMenu2Delegate" pc="268441890" symbol="initialize"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="79" lineNum="16" parent="globals/Menu2TestMenu2Delegate" pc="268441894" symbol="initialize"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="80" lineNum="21" parent="globals/Menu2TestMenu2Delegate" pc="268441913" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="80" lineNum="22" parent="globals/Menu2TestMenu2Delegate" pc="268441917" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="80" lineNum="23" parent="globals/Menu2TestMenu2Delegate" pc="268441930" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="80" lineNum="26" parent="globals/Menu2TestMenu2Delegate" pc="268441949" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="80" lineNum="27" parent="globals/Menu2TestMenu2Delegate" pc="268441996" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="80" lineNum="28" parent="globals/Menu2TestMenu2Delegate" pc="268442110" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="80" lineNum="29" parent="globals/Menu2TestMenu2Delegate" pc="268442224" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="80" lineNum="30" parent="globals/Menu2TestMenu2Delegate" pc="268442307" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="80" lineNum="31" parent="globals/Menu2TestMenu2Delegate" pc="268442366" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="80" lineNum="34" parent="globals/Menu2TestMenu2Delegate" pc="268442385" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="80" lineNum="35" parent="globals/Menu2TestMenu2Delegate" pc="268442432" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="80" lineNum="36" parent="globals/Menu2TestMenu2Delegate" pc="268442519" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="80" lineNum="37" parent="globals/Menu2TestMenu2Delegate" pc="268442606" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="80" lineNum="38" parent="globals/Menu2TestMenu2Delegate" pc="268442662" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="80" lineNum="39" parent="globals/Menu2TestMenu2Delegate" pc="268442721" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="80" lineNum="42" parent="globals/Menu2TestMenu2Delegate" pc="268442740" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="80" lineNum="43" parent="globals/Menu2TestMenu2Delegate" pc="268442787" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="80" lineNum="44" parent="globals/Menu2TestMenu2Delegate" pc="268442815" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="80" lineNum="45" parent="globals/Menu2TestMenu2Delegate" pc="268442843" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="80" lineNum="46" parent="globals/Menu2TestMenu2Delegate" pc="268442871" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="80" lineNum="47" parent="globals/Menu2TestMenu2Delegate" pc="268442964" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="80" lineNum="48" parent="globals/Menu2TestMenu2Delegate" pc="268443057" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="80" lineNum="49" parent="globals/Menu2TestMenu2Delegate" pc="268443119" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="80" lineNum="50" parent="globals/Menu2TestMenu2Delegate" pc="268443178" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="80" lineNum="53" parent="globals/Menu2TestMenu2Delegate" pc="268443197" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="80" lineNum="54" parent="globals/Menu2TestMenu2Delegate" pc="268443244" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="80" lineNum="55" parent="globals/Menu2TestMenu2Delegate" pc="268443294" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="80" lineNum="56" parent="globals/Menu2TestMenu2Delegate" pc="268443344" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="80" lineNum="57" parent="globals/Menu2TestMenu2Delegate" pc="268443394" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="80" lineNum="59" parent="globals/Menu2TestMenu2Delegate" pc="268443453" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="81" lineNum="64" parent="globals/Menu2TestMenu2Delegate" pc="268443470" symbol="onBack"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="81" lineNum="65" parent="globals/Menu2TestMenu2Delegate" pc="268443474" symbol="onBack"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="82" lineNum="12" parent="globals/Menu2TestMenu2Delegate" pc="268445202" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="82" lineNum="12" parent="globals/Menu2TestMenu2Delegate" pc="268445202" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="83" lineNum="73" parent="globals/Menu2SampleSubMenuDelegate" pc="268443503" symbol="initialize"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="83" lineNum="74" parent="globals/Menu2SampleSubMenuDelegate" pc="268443507" symbol="initialize"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="84" lineNum="79" parent="globals/Menu2SampleSubMenuDelegate" pc="268443526" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="84" lineNum="83" parent="globals/Menu2SampleSubMenuDelegate" pc="268443530" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="84" lineNum="84" parent="globals/Menu2SampleSubMenuDelegate" pc="268443548" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="84" lineNum="86" parent="globals/Menu2SampleSubMenuDelegate" pc="268443583" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="85" lineNum="90" parent="globals/Menu2SampleSubMenuDelegate" pc="268443600" symbol="onBack"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="85" lineNum="91" parent="globals/Menu2SampleSubMenuDelegate" pc="268443604" symbol="onBack"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="86" lineNum="95" parent="globals/Menu2SampleSubMenuDelegate" pc="268443633" symbol="onDone"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="86" lineNum="96" parent="globals/Menu2SampleSubMenuDelegate" pc="268443637" symbol="onDone"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="87" lineNum="70" parent="globals/Menu2SampleSubMenuDelegate" pc="268445107" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="87" lineNum="70" parent="globals/Menu2SampleSubMenuDelegate" pc="268445107" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="88" lineNum="104" parent="globals/Menu2SampleCustomDelegate" pc="268443666" symbol="initialize"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="88" lineNum="105" parent="globals/Menu2SampleCustomDelegate" pc="268443670" symbol="initialize"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="89" lineNum="110" parent="globals/Menu2SampleCustomDelegate" pc="268443689" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="89" lineNum="111" parent="globals/Menu2SampleCustomDelegate" pc="268443693" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="89" lineNum="114" parent="globals/Menu2SampleCustomDelegate" pc="268443706" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="89" lineNum="115" parent="globals/Menu2SampleCustomDelegate" pc="268443717" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="89" lineNum="116" parent="globals/Menu2SampleCustomDelegate" pc="268443736" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="89" lineNum="117" parent="globals/Menu2SampleCustomDelegate" pc="268443747" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="89" lineNum="118" parent="globals/Menu2SampleCustomDelegate" pc="268443766" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="89" lineNum="119" parent="globals/Menu2SampleCustomDelegate" pc="268443777" symbol="onSelect"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="90" lineNum="124" parent="globals/Menu2SampleCustomDelegate" pc="268443797" symbol="onBack"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="90" lineNum="125" parent="globals/Menu2SampleCustomDelegate" pc="268443801" symbol="onBack"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="91" lineNum="101" parent="globals/Menu2SampleCustomDelegate" pc="268444811" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="91" lineNum="101" parent="globals/Menu2SampleCustomDelegate" pc="268444811" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="92" lineNum="141" parent="globals/CustomIcon" pc="268443830" symbol="initialize"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="92" lineNum="142" parent="globals/CustomIcon" pc="268443834" symbol="initialize"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="92" lineNum="143" parent="globals/CustomIcon" pc="268443858" symbol="initialize"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="93" lineNum="148" parent="globals/CustomIcon" pc="268443872" symbol="nextState"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="93" lineNum="149" parent="globals/CustomIcon" pc="268443876" symbol="nextState"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="93" lineNum="150" parent="globals/CustomIcon" pc="268443895" symbol="nextState"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="93" lineNum="151" parent="globals/CustomIcon" pc="268443924" symbol="nextState"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="93" lineNum="154" parent="globals/CustomIcon" pc="268443940" symbol="nextState"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="94" lineNum="159" parent="globals/CustomIcon" pc="268443959" symbol="getString"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="94" lineNum="160" parent="globals/CustomIcon" pc="268443963" symbol="getString"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="95" lineNum="166" parent="globals/CustomIcon" pc="268443982" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="95" lineNum="167" parent="globals/CustomIcon" pc="268443986" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="95" lineNum="168" parent="globals/CustomIcon" pc="268444005" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="95" lineNum="169" parent="globals/CustomIcon" pc="268444021" symbol="draw"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="96" lineNum="133" parent="globals/CustomIcon" pc="268444547" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="96" lineNum="135" parent="globals/CustomIcon" pc="268444565" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="96" lineNum="137" parent="globals/CustomIcon" pc="268444699" symbol="&lt;init&gt;"/>
+        <entry filename="/home/gab/Projects/whip/test-iq/source/MenuTestMenuDelegate.mc" id="96" lineNum="133" parent="globals/CustomIcon" pc="268444547" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="98" lineNum="18" parent="globals/Rez/Drawables/MenuForeground" pc="268444034" symbol="initialize"/>
+        <entry filename="Rez" id="98" lineNum="19" parent="globals/Rez/Drawables/MenuForeground" pc="268444038" symbol="initialize"/>
+        <entry filename="Rez" id="99" lineNum="22" parent="globals/Rez/Drawables/MenuForeground" pc="268444063" symbol="draw"/>
+        <entry filename="Rez" id="99" lineNum="23" parent="globals/Rez/Drawables/MenuForeground" pc="268444067" symbol="draw"/>
+        <entry filename="Rez" id="99" lineNum="24" parent="globals/Rez/Drawables/MenuForeground" pc="268444103" symbol="draw"/>
+        <entry filename="Rez" id="99" lineNum="25" parent="globals/Rez/Drawables/MenuForeground" pc="268444135" symbol="draw"/>
+        <entry filename="Rez" id="100" lineNum="16" parent="globals/Rez/Drawables/MenuForeground" pc="268444855" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="100" lineNum="16" parent="globals/Rez/Drawables/MenuForeground" pc="268444855" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="101" lineNum="2" parent="globals/Rez/Drawables" pc="268444854" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="102" lineNum="32" parent="globals/Rez/Fonts" pc="268444875" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="103" lineNum="34" parent="globals/Rez/JsonData" pc="268444877" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="104" lineNum="43" parent="globals/Rez/Layouts" pc="268444172" symbol="MainLayout"/>
+        <entry filename="Rez" id="104" lineNum="45" parent="globals/Rez/Layouts" pc="268444184" symbol="MainLayout"/>
+        <entry filename="Rez" id="104" lineNum="46" parent="globals/Rez/Layouts" pc="268444296" symbol="MainLayout"/>
+        <entry filename="Rez" id="104" lineNum="47" parent="globals/Rez/Layouts" pc="268444336" symbol="MainLayout"/>
+        <entry filename="Rez" id="104" lineNum="49" parent="globals/Rez/Layouts" pc="268444518" symbol="MainLayout"/>
+        <entry filename="Rez" id="105" lineNum="36" parent="globals/Rez/Layouts" pc="268444876" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="106" lineNum="54" parent="globals/Rez/Menus" pc="268444874" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="107" lineNum="56" parent="globals/Rez/Strings" pc="268444878" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="108" lineNum="1" parent="globals/Rez" pc="268444830" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="108" lineNum="1" parent="globals/Rez" pc="268444830" symbol="&lt;init&gt;"/>
     </pcToLineNum>
     <symbolTable>
-        <entry field="true" id="53" symbol="&lt;globals/ItemView/&lt;&gt;_text&gt;"/>
+        <entry field="true" id="55" symbol="&lt;globals/ItemView/&lt;&gt;_text&gt;"/>
         <entry id="8388639" module="true" symbol="Graphics"/>
-        <entry id="66" symbol="basic"/>
+        <entry id="68" symbol="basic"/>
         <entry id="8389346" symbol="text"/>
-        <entry field="true" id="55" symbol="&lt;globals/CustomWrapItem/&lt;&gt;_textColor&gt;"/>
-        <entry field="true" id="45" symbol="mouse"/>
-        <entry id="21" object="true" symbol="TestIq"/>
+        <entry field="true" id="57" symbol="&lt;globals/CustomWrapItem/&lt;&gt;_textColor&gt;"/>
+        <entry field="true" id="46" symbol="mouse"/>
+        <entry id="22" object="true" symbol="TestIq"/>
         <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
-        <entry id="67" symbol="images"/>
-        <entry id="30" object="true" symbol="Menu2SampleSubMenuDelegate"/>
+        <entry id="69" symbol="images"/>
+        <entry id="31" object="true" symbol="Menu2SampleSubMenuDelegate"/>
         <entry id="4" module="true" symbol="globals/Rez/Menus"/>
         <entry id="8390740" method="true" symbol="drawTitle"/>
         <entry id="8390437" symbol="alignment"/>
-        <entry id="49" method="true" symbol="MainLayout"/>
-        <entry field="true" id="34" symbol="&lt;globals/CustomIcon/&lt;&gt;_colorStrings&gt;"/>
-        <entry id="32" object="true" symbol="CustomIcon"/>
-        <entry field="true" id="33" symbol="&lt;globals/CustomIcon/&lt;&gt;_colors&gt;"/>
-        <entry id="19" object="true" symbol="ImagesCustomDelegate"/>
-        <entry field="true" id="57" symbol="&lt;globals/CustomImagesItem/&lt;&gt;_bitmap&gt;"/>
+        <entry id="50" method="true" symbol="MainLayout"/>
+        <entry field="true" id="35" symbol="&lt;globals/CustomIcon/&lt;&gt;_colorStrings&gt;"/>
+        <entry id="33" object="true" symbol="CustomIcon"/>
+        <entry field="true" id="34" symbol="&lt;globals/CustomIcon/&lt;&gt;_colors&gt;"/>
+        <entry id="54" method="true" symbol="startupTimerCallback"/>
+        <entry id="20" object="true" symbol="ImagesCustomDelegate"/>
+        <entry field="true" id="59" symbol="&lt;globals/CustomImagesItem/&lt;&gt;_bitmap&gt;"/>
         <entry id="13" object="true" symbol="WrapBottomMenu"/>
         <entry field="true" id="8388611" module="true" symbol="Toybox"/>
         <entry id="8390413" method="true" symbol="getLabel"/>
         <entry id="8390751" method="true" symbol="onFooter"/>
-        <entry field="true" id="52" symbol="AppName"/>
+        <entry field="true" id="53" symbol="AppName"/>
         <entry id="10" method="true" symbol="pushWrapCustom"/>
         <entry id="8" module="true" symbol="globals/Rez/Strings"/>
         <entry id="8389080" method="true" symbol="onMenu"/>
@@ -382,7 +391,7 @@
         <entry id="8388648" module="true" symbol="WatchUi"/>
         <entry id="8389081" method="true" symbol="onBack"/>
         <entry id="2" module="true" symbol="globals/Rez"/>
-        <entry field="true" id="41" symbol="logo"/>
+        <entry field="true" id="42" symbol="logo"/>
         <entry id="8389124" method="true" symbol="onUpdate"/>
         <entry field="true" id="8389065" symbol="locY"/>
         <entry field="true" id="8389064" symbol="locX"/>
@@ -391,53 +400,54 @@
         <entry id="8390439" symbol="disabled"/>
         <entry id="8388771" module="true" object="true" symbol="Drawables"/>
         <entry id="8389348" symbol="font"/>
-        <entry id="40" module="true" symbol="Menus"/>
+        <entry id="41" module="true" symbol="Menus"/>
         <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
-        <entry field="true" id="42" symbol="bear"/>
+        <entry field="true" id="43" symbol="bear"/>
         <entry id="8389122" method="true" symbol="onLayout"/>
-        <entry field="true" id="38" symbol="&lt;globals/CustomItem/&lt;&gt;_label&gt;"/>
+        <entry field="true" id="39" symbol="&lt;globals/CustomItem/&lt;&gt;_label&gt;"/>
         <entry field="true" id="8389063" symbol="identifier"/>
-        <entry field="true" id="44" symbol="fox"/>
+        <entry field="true" id="45" symbol="fox"/>
         <entry id="8389349" symbol="justification"/>
-        <entry id="29" object="true" symbol="Menu2TestMenu2Delegate"/>
-        <entry id="25" object="true" symbol="CustomItem"/>
+        <entry id="30" object="true" symbol="Menu2TestMenu2Delegate"/>
+        <entry id="26" object="true" symbol="CustomItem"/>
         <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="17" object="true" symbol="TestIqMenuView"/>
         <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
-        <entry id="68" symbol="wrap"/>
+        <entry id="70" symbol="wrap"/>
         <entry id="8390752" symbol="focusItemHeight"/>
-        <entry id="23" object="true" symbol="ItemView"/>
-        <entry id="37" method="true" symbol="getString"/>
-        <entry field="true" id="56" symbol="&lt;globals/CustomImagesItem/&lt;&gt;_label&gt;"/>
+        <entry id="24" object="true" symbol="ItemView"/>
+        <entry id="38" method="true" symbol="getString"/>
+        <entry field="true" id="58" symbol="&lt;globals/CustomImagesItem/&lt;&gt;_label&gt;"/>
         <entry field="true" id="8390438" symbol="enabled"/>
-        <entry id="22" method="true" symbol="pushBasicCustom"/>
-        <entry id="24" object="true" symbol="BasicCustomDelegate"/>
-        <entry field="true" id="35" symbol="&lt;globals/CustomIcon/&lt;&gt;_index&gt;"/>
+        <entry id="23" method="true" symbol="pushBasicCustom"/>
+        <entry id="25" object="true" symbol="BasicCustomDelegate"/>
+        <entry field="true" id="36" symbol="&lt;globals/CustomIcon/&lt;&gt;_index&gt;"/>
         <entry id="8389619" method="true" symbol="onSelect"/>
-        <entry field="true" id="54" symbol="&lt;globals/CustomWrapItem/&lt;&gt;_label&gt;"/>
+        <entry field="true" id="56" symbol="&lt;globals/CustomWrapItem/&lt;&gt;_label&gt;"/>
         <entry id="8388769" module="true" object="true" symbol="Rez"/>
-        <entry id="31" object="true" symbol="Menu2SampleCustomDelegate"/>
+        <entry id="32" object="true" symbol="Menu2SampleCustomDelegate"/>
         <entry id="14" object="true" symbol="WrapTopCustomDelegate"/>
         <entry id="9" object="true" symbol="TestIqView"/>
         <entry id="8388640" module="true" symbol="Lang"/>
-        <entry id="65" symbol="item7"/>
-        <entry id="64" symbol="item6"/>
-        <entry id="63" symbol="item5"/>
-        <entry id="62" symbol="item4"/>
-        <entry id="61" symbol="item3"/>
-        <entry id="60" symbol="item2"/>
-        <entry id="59" symbol="item1"/>
+        <entry id="67" symbol="item7"/>
+        <entry id="66" symbol="item6"/>
+        <entry id="65" symbol="item5"/>
+        <entry id="64" symbol="item4"/>
+        <entry id="63" symbol="item3"/>
+        <entry id="62" symbol="item2"/>
+        <entry id="61" symbol="item1"/>
         <entry id="8390088" module="true" object="true" symbol="JsonData"/>
         <entry id="8389068" method="true" symbol="draw"/>
-        <entry field="true" id="47" symbol="LauncherIcon"/>
+        <entry field="true" id="48" symbol="LauncherIcon"/>
         <entry id="8388610" symbol="statics"/>
         <entry id="8389123" method="true" symbol="onShow"/>
-        <entry field="true" id="50" symbol="MainMenuTitle"/>
+        <entry field="true" id="51" symbol="MainMenuTitle"/>
         <entry id="15" object="true" symbol="WrapBottomCustomDelegate"/>
         <entry id="8389350" module="true" symbol="globals"/>
         <entry id="8388770" module="true" object="true" symbol="Strings"/>
         <entry id="8388702" method="true" symbol="initialize"/>
-        <entry field="true" id="43" symbol="dog"/>
-        <entry id="18" object="true" symbol="ImagesMenu"/>
+        <entry field="true" id="44" symbol="dog"/>
+        <entry id="19" object="true" symbol="ImagesMenu"/>
         <entry id="8389279" method="true" symbol="onStart"/>
         <entry id="16" object="true" symbol="CustomWrapItem"/>
         <entry id="12" object="true" symbol="WrapTopMenu"/>
@@ -445,26 +455,26 @@
         <entry id="8390749" method="true" symbol="onWrap"/>
         <entry id="8389280" method="true" symbol="getInitialView"/>
         <entry id="8389281" method="true" symbol="onStop"/>
-        <entry field="true" id="58" symbol="&lt;globals/CustomImagesItem/&lt;&gt;_bitmapOffset&gt;"/>
+        <entry field="true" id="60" symbol="&lt;globals/CustomImagesItem/&lt;&gt;_bitmapOffset&gt;"/>
         <entry id="8389347" symbol="color"/>
-        <entry id="28" object="true" symbol="DrawableMenuTitle"/>
+        <entry id="29" object="true" symbol="DrawableMenuTitle"/>
         <entry id="8390750" method="true" symbol="onTitle"/>
-        <entry id="27" object="true" symbol="MenuTestIqDelegate"/>
+        <entry id="28" object="true" symbol="MenuTestIqDelegate"/>
         <entry id="11" method="true" symbol="pushWrapCustomBottom"/>
-        <entry id="39" module="true" symbol="Layouts"/>
-        <entry field="true" id="46" symbol="turtle"/>
-        <entry id="20" object="true" symbol="CustomImagesItem"/>
+        <entry id="40" module="true" symbol="Layouts"/>
+        <entry field="true" id="47" symbol="turtle"/>
+        <entry id="21" object="true" symbol="CustomImagesItem"/>
         <entry id="8390741" method="true" symbol="drawFooter"/>
         <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
         <entry field="true" id="8389743" symbol="backgroundColor"/>
         <entry id="8389125" method="true" symbol="onHide"/>
         <entry id="8388635" module="true" symbol="Application"/>
         <entry field="true" id="8389642" symbol="title"/>
-        <entry id="26" object="true" symbol="DrawableMenuFooter"/>
-        <entry id="36" method="true" symbol="nextState"/>
-        <entry field="true" id="51" symbol="SplashText"/>
-        <entry id="48" object="true" symbol="MenuForeground"/>
-        <entry id="17" method="true" symbol="pushImagesCustom"/>
+        <entry id="27" object="true" symbol="DrawableMenuFooter"/>
+        <entry id="37" method="true" symbol="nextState"/>
+        <entry field="true" id="52" symbol="SplashText"/>
+        <entry id="49" object="true" symbol="MenuForeground"/>
+        <entry id="18" method="true" symbol="pushImagesCustom"/>
     </symbolTable>
     <localVars>
         <entry arg="true" endPc="268435524" name="dc" stackId="1" startPc="268435479"/>
@@ -490,57 +500,58 @@
         <entry arg="true" endPc="268437877" name="id" stackId="1" startPc="268437827"/>
         <entry endPc="268438104" name="font" stackId="2" startPc="268437882"/>
         <entry arg="true" endPc="268438105" name="dc" stackId="1" startPc="268437878"/>
-        <entry endPc="268438653" name="customMenu" stackId="1" startPc="268438118"/>
-        <entry arg="true" endPc="268438687" name="backgroundColor" stackId="2" startPc="268438655"/>
-        <entry arg="true" endPc="268438687" name="itemHeight" stackId="1" startPc="268438655"/>
-        <entry arg="true" endPc="268438948" name="dc" stackId="1" startPc="268438688"/>
-        <entry arg="true" endPc="268438992" name="item" stackId="1" startPc="268438972"/>
-        <entry arg="true" endPc="268439107" name="label" stackId="2" startPc="268439026"/>
-        <entry arg="true" endPc="268439107" name="bitmap" stackId="3" startPc="268439026"/>
-        <entry arg="true" endPc="268439107" name="id" stackId="1" startPc="268439026"/>
-        <entry endPc="268439384" name="font" stackId="2" startPc="268439112"/>
-        <entry endPc="268439384" name="bmXY" stackId="3" startPc="268439112"/>
-        <entry arg="true" endPc="268439385" name="dc" stackId="1" startPc="268439108"/>
-        <entry arg="true" endPc="268439413" name="state" stackId="1" startPc="268439409"/>
-        <entry arg="true" endPc="268439418" name="state" stackId="1" startPc="268439414"/>
-        <entry endPc="268440080" name="customMenu" stackId="1" startPc="268439511"/>
-        <entry arg="true" endPc="268440254" name="text" stackId="1" startPc="268440082"/>
-        <entry arg="true" endPc="268440327" name="dc" stackId="1" startPc="268440255"/>
-        <entry arg="true" endPc="268440437" name="item" stackId="1" startPc="268440351"/>
-        <entry arg="true" endPc="268440478" name="key" stackId="1" startPc="268440471"/>
-        <entry arg="true" endPc="268440519" name="text" stackId="2" startPc="268440479"/>
-        <entry arg="true" endPc="268440519" name="id" stackId="1" startPc="268440479"/>
-        <entry endPc="268440886" name="font" stackId="2" startPc="268440524"/>
-        <entry arg="true" endPc="268440887" name="dc" stackId="1" startPc="268440520"/>
-        <entry arg="true" endPc="268441009" name="dc" stackId="1" startPc="268440931"/>
-        <entry endPc="268441367" name="menu" stackId="1" startPc="268441037"/>
-        <entry endPc="268441740" name="labelWidth" stackId="5" startPc="268441402"/>
-        <entry endPc="268441740" name="bitmapY" stackId="7" startPc="268441402"/>
-        <entry endPc="268441740" name="appIcon" stackId="3" startPc="268441402"/>
-        <entry endPc="268441740" name="labelY" stackId="9" startPc="268441402"/>
-        <entry endPc="268441740" name="bitmapX" stackId="6" startPc="268441402"/>
-        <entry endPc="268441740" name="labelX" stackId="8" startPc="268441402"/>
-        <entry endPc="268441740" name="bitmapWidth" stackId="4" startPc="268441402"/>
-        <entry endPc="268441740" name="spacing" stackId="2" startPc="268441402"/>
-        <entry arg="true" endPc="268441741" name="dc" stackId="1" startPc="268441398"/>
-        <entry endPc="268442214" name="toggleMenu" stackId="3" startPc="268441801"/>
-        <entry endPc="268442569" name="checkMenu" stackId="4" startPc="268442237"/>
-        <entry endPc="268443026" name="drawable1" stackId="6" startPc="268442592"/>
-        <entry endPc="268443026" name="iconMenu" stackId="5" startPc="268442592"/>
-        <entry endPc="268443026" name="drawable3" stackId="8" startPc="268442592"/>
-        <entry endPc="268443026" name="drawable2" stackId="7" startPc="268442592"/>
-        <entry endPc="268443301" name="customMenu" stackId="9" startPc="268443049"/>
-        <entry endPc="268443320" name="id" stackId="2" startPc="268441769"/>
-        <entry arg="true" endPc="268443321" name="item" stackId="1" startPc="268441765"/>
-        <entry arg="true" endPc="268443451" name="item" stackId="1" startPc="268443378"/>
-        <entry endPc="268443647" name="id" stackId="2" startPc="268443545"/>
-        <entry arg="true" endPc="268443648" name="item" stackId="1" startPc="268443541"/>
-        <entry endPc="268443884" name="color" stackId="2" startPc="268443838"/>
-        <entry arg="true" endPc="268443885" name="dc" stackId="1" startPc="268443834"/>
-        <entry arg="true" endPc="268444023" name="dc" stackId="1" startPc="268443915"/>
-        <entry endPc="268444396" name="rez_cmp_local_text_2122989160" stackId="3" startPc="268444036"/>
-        <entry endPc="268444396" name="rez_cmp_local_bitmap_logo" stackId="2" startPc="268444036"/>
-        <entry arg="true" endPc="268444397" name="dc" stackId="1" startPc="268444024"/>
+        <entry endPc="268438676" name="customMenu" stackId="1" startPc="268438141"/>
+        <entry arg="true" endPc="268438710" name="backgroundColor" stackId="2" startPc="268438678"/>
+        <entry arg="true" endPc="268438710" name="itemHeight" stackId="1" startPc="268438678"/>
+        <entry arg="true" endPc="268438971" name="dc" stackId="1" startPc="268438711"/>
+        <entry arg="true" endPc="268439015" name="item" stackId="1" startPc="268438995"/>
+        <entry arg="true" endPc="268439130" name="label" stackId="2" startPc="268439049"/>
+        <entry arg="true" endPc="268439130" name="bitmap" stackId="3" startPc="268439049"/>
+        <entry arg="true" endPc="268439130" name="id" stackId="1" startPc="268439049"/>
+        <entry endPc="268439407" name="font" stackId="2" startPc="268439135"/>
+        <entry endPc="268439407" name="bmXY" stackId="3" startPc="268439135"/>
+        <entry arg="true" endPc="268439408" name="dc" stackId="1" startPc="268439131"/>
+        <entry endPc="268439500" name="_time" stackId="2" startPc="268439436"/>
+        <entry arg="true" endPc="268439501" name="state" stackId="1" startPc="268439432"/>
+        <entry arg="true" endPc="268439506" name="state" stackId="1" startPc="268439502"/>
+        <entry endPc="268440228" name="customMenu" stackId="1" startPc="268439659"/>
+        <entry arg="true" endPc="268440402" name="text" stackId="1" startPc="268440230"/>
+        <entry arg="true" endPc="268440475" name="dc" stackId="1" startPc="268440403"/>
+        <entry arg="true" endPc="268440585" name="item" stackId="1" startPc="268440499"/>
+        <entry arg="true" endPc="268440626" name="key" stackId="1" startPc="268440619"/>
+        <entry arg="true" endPc="268440667" name="text" stackId="2" startPc="268440627"/>
+        <entry arg="true" endPc="268440667" name="id" stackId="1" startPc="268440627"/>
+        <entry endPc="268441034" name="font" stackId="2" startPc="268440672"/>
+        <entry arg="true" endPc="268441035" name="dc" stackId="1" startPc="268440668"/>
+        <entry arg="true" endPc="268441157" name="dc" stackId="1" startPc="268441079"/>
+        <entry endPc="268441515" name="menu" stackId="1" startPc="268441185"/>
+        <entry endPc="268441888" name="labelWidth" stackId="5" startPc="268441550"/>
+        <entry endPc="268441888" name="bitmapY" stackId="7" startPc="268441550"/>
+        <entry endPc="268441888" name="appIcon" stackId="3" startPc="268441550"/>
+        <entry endPc="268441888" name="labelY" stackId="9" startPc="268441550"/>
+        <entry endPc="268441888" name="bitmapX" stackId="6" startPc="268441550"/>
+        <entry endPc="268441888" name="labelX" stackId="8" startPc="268441550"/>
+        <entry endPc="268441888" name="bitmapWidth" stackId="4" startPc="268441550"/>
+        <entry endPc="268441888" name="spacing" stackId="2" startPc="268441550"/>
+        <entry arg="true" endPc="268441889" name="dc" stackId="1" startPc="268441546"/>
+        <entry endPc="268442362" name="toggleMenu" stackId="3" startPc="268441949"/>
+        <entry endPc="268442717" name="checkMenu" stackId="4" startPc="268442385"/>
+        <entry endPc="268443174" name="drawable1" stackId="6" startPc="268442740"/>
+        <entry endPc="268443174" name="iconMenu" stackId="5" startPc="268442740"/>
+        <entry endPc="268443174" name="drawable3" stackId="8" startPc="268442740"/>
+        <entry endPc="268443174" name="drawable2" stackId="7" startPc="268442740"/>
+        <entry endPc="268443449" name="customMenu" stackId="9" startPc="268443197"/>
+        <entry endPc="268443468" name="id" stackId="2" startPc="268441917"/>
+        <entry arg="true" endPc="268443469" name="item" stackId="1" startPc="268441913"/>
+        <entry arg="true" endPc="268443599" name="item" stackId="1" startPc="268443526"/>
+        <entry endPc="268443795" name="id" stackId="2" startPc="268443693"/>
+        <entry arg="true" endPc="268443796" name="item" stackId="1" startPc="268443689"/>
+        <entry endPc="268444032" name="color" stackId="2" startPc="268443986"/>
+        <entry arg="true" endPc="268444033" name="dc" stackId="1" startPc="268443982"/>
+        <entry arg="true" endPc="268444171" name="dc" stackId="1" startPc="268444063"/>
+        <entry endPc="268444544" name="rez_cmp_local_text_1015291213" stackId="3" startPc="268444184"/>
+        <entry endPc="268444544" name="rez_cmp_local_bitmap_logo" stackId="2" startPc="268444184"/>
+        <entry arg="true" endPc="268444545" name="dc" stackId="1" startPc="268444172"/>
     </localVars>
     <annotations>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="logo"/>
@@ -556,34 +567,35 @@
     </annotations>
     <dataEntryOffsetMappings>
         <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
-        <dataEntry label="globals/CustomIcon" offset="326" parentId="globals" symbolId="CustomIcon" type="class"/>
-        <dataEntry label="globals/CustomItem" offset="421" parentId="globals" symbolId="CustomItem" type="class"/>
-        <dataEntry label="globals/Menu2SampleCustomDelegate" offset="492" parentId="globals" symbolId="Menu2SampleCustomDelegate" type="class"/>
-        <dataEntry label="globals/Rez" offset="555" parentId="globals" symbolId="Rez" type="module"/>
-        <dataEntry label="globals/Rez/Drawables" offset="634" parentId="Rez" symbolId="Drawables" type="module"/>
-        <dataEntry label="globals/Rez/Drawables/MenuForeground" offset="729" parentId="Drawables" symbolId="MenuForeground" type="class"/>
-        <dataEntry label="globals/Rez/Menus" offset="784" parentId="Rez" symbolId="Menus" type="module"/>
-        <dataEntry label="globals/Rez/Fonts" offset="815" parentId="Rez" symbolId="Fonts" type="module"/>
-        <dataEntry label="globals/Rez/Layouts" offset="846" parentId="Rez" symbolId="Layouts" type="module"/>
-        <dataEntry label="globals/Rez/JsonData" offset="885" parentId="Rez" symbolId="JsonData" type="module"/>
-        <dataEntry label="globals/Rez/Strings" offset="916" parentId="Rez" symbolId="Strings" type="module"/>
-        <dataEntry label="globals/TestIqView" offset="971" parentId="globals" symbolId="TestIqView" type="class"/>
-        <dataEntry label="globals/ImagesMenu" offset="1050" parentId="globals" symbolId="ImagesMenu" type="class"/>
-        <dataEntry label="globals/MenuTestIqDelegate" offset="1105" parentId="globals" symbolId="MenuTestIqDelegate" type="class"/>
-        <dataEntry label="globals/WrapTopMenu" offset="1160" parentId="globals" symbolId="WrapTopMenu" type="class"/>
-        <dataEntry label="globals/TestIq" offset="1223" parentId="globals" symbolId="TestIq" type="class"/>
-        <dataEntry label="globals/DrawableMenuFooter" offset="1294" parentId="globals" symbolId="DrawableMenuFooter" type="class"/>
-        <dataEntry label="globals/WrapBottomCustomDelegate" offset="1349" parentId="globals" symbolId="WrapBottomCustomDelegate" type="class"/>
-        <dataEntry label="globals/ItemView" offset="1428" parentId="globals" symbolId="ItemView" type="class"/>
-        <dataEntry label="globals/DrawableMenuTitle" offset="1491" parentId="globals" symbolId="DrawableMenuTitle" type="class"/>
-        <dataEntry label="globals/BasicCustomDelegate" offset="1546" parentId="globals" symbolId="BasicCustomDelegate" type="class"/>
-        <dataEntry label="globals/WrapBottomMenu" offset="1617" parentId="globals" symbolId="WrapBottomMenu" type="class"/>
-        <dataEntry label="globals/Menu2SampleSubMenuDelegate" offset="1672" parentId="globals" symbolId="Menu2SampleSubMenuDelegate" type="class"/>
-        <dataEntry label="globals/WrapTopCustomDelegate" offset="1743" parentId="globals" symbolId="WrapTopCustomDelegate" type="class"/>
-        <dataEntry label="globals/CustomWrapItem" offset="1822" parentId="globals" symbolId="CustomWrapItem" type="class"/>
-        <dataEntry label="globals/ImagesCustomDelegate" offset="1893" parentId="globals" symbolId="ImagesCustomDelegate" type="class"/>
-        <dataEntry label="globals/CustomImagesItem" offset="1956" parentId="globals" symbolId="CustomImagesItem" type="class"/>
-        <dataEntry label="globals/Menu2TestMenu2Delegate" offset="2035" parentId="globals" symbolId="Menu2TestMenu2Delegate" type="class"/>
+        <dataEntry label="globals/CustomIcon" offset="334" parentId="globals" symbolId="CustomIcon" type="class"/>
+        <dataEntry label="globals/CustomItem" offset="429" parentId="globals" symbolId="CustomItem" type="class"/>
+        <dataEntry label="globals/Menu2SampleCustomDelegate" offset="500" parentId="globals" symbolId="Menu2SampleCustomDelegate" type="class"/>
+        <dataEntry label="globals/Rez" offset="563" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="642" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Drawables/MenuForeground" offset="737" parentId="Drawables" symbolId="MenuForeground" type="class"/>
+        <dataEntry label="globals/Rez/Menus" offset="792" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="823" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="854" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="893" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="924" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/TestIqView" offset="979" parentId="globals" symbolId="TestIqView" type="class"/>
+        <dataEntry label="globals/ImagesMenu" offset="1058" parentId="globals" symbolId="ImagesMenu" type="class"/>
+        <dataEntry label="globals/MenuTestIqDelegate" offset="1113" parentId="globals" symbolId="MenuTestIqDelegate" type="class"/>
+        <dataEntry label="globals/WrapTopMenu" offset="1168" parentId="globals" symbolId="WrapTopMenu" type="class"/>
+        <dataEntry label="globals/TestIq" offset="1231" parentId="globals" symbolId="TestIq" type="class"/>
+        <dataEntry label="globals/DrawableMenuFooter" offset="1310" parentId="globals" symbolId="DrawableMenuFooter" type="class"/>
+        <dataEntry label="globals/WrapBottomCustomDelegate" offset="1365" parentId="globals" symbolId="WrapBottomCustomDelegate" type="class"/>
+        <dataEntry label="globals/ItemView" offset="1444" parentId="globals" symbolId="ItemView" type="class"/>
+        <dataEntry label="globals/DrawableMenuTitle" offset="1507" parentId="globals" symbolId="DrawableMenuTitle" type="class"/>
+        <dataEntry label="globals/BasicCustomDelegate" offset="1562" parentId="globals" symbolId="BasicCustomDelegate" type="class"/>
+        <dataEntry label="globals/TestIqMenuView" offset="1633" parentId="globals" symbolId="TestIqMenuView" type="class"/>
+        <dataEntry label="globals/WrapBottomMenu" offset="1680" parentId="globals" symbolId="WrapBottomMenu" type="class"/>
+        <dataEntry label="globals/Menu2SampleSubMenuDelegate" offset="1735" parentId="globals" symbolId="Menu2SampleSubMenuDelegate" type="class"/>
+        <dataEntry label="globals/WrapTopCustomDelegate" offset="1806" parentId="globals" symbolId="WrapTopCustomDelegate" type="class"/>
+        <dataEntry label="globals/CustomWrapItem" offset="1885" parentId="globals" symbolId="CustomWrapItem" type="class"/>
+        <dataEntry label="globals/ImagesCustomDelegate" offset="1956" parentId="globals" symbolId="ImagesCustomDelegate" type="class"/>
+        <dataEntry label="globals/CustomImagesItem" offset="2019" parentId="globals" symbolId="CustomImagesItem" type="class"/>
+        <dataEntry label="globals/Menu2TestMenu2Delegate" offset="2098" parentId="globals" symbolId="Menu2TestMenu2Delegate" type="class"/>
     </dataEntryOffsetMappings>
     <functions>
         <functionEntry accessMode="public" endPc="268435478" name="initialize" parent="TestIqView" startPc="268435456">
@@ -613,7 +625,7 @@
                 <![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of this View here. This includes freeing resources from<br/> memory.<br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268444749" name="&lt;init&gt;" parent="TestIqView" startPc="268444731">
+        <functionEntry accessMode="protected" endPc="268444897" name="&lt;init&gt;" parent="TestIqView" startPc="268444879">
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" endPc="268435853" name="pushWrapCustom" startPc="268435560">
@@ -645,7 +657,7 @@
                 <![CDATA[<div class="description"> Draw the menu footer<br/> <div class="param"> dc Device Context</div><br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268444806" name="&lt;init&gt;" parent="WrapTopMenu" startPc="268444788">
+        <functionEntry accessMode="protected" endPc="268444954" name="&lt;init&gt;" parent="WrapTopMenu" startPc="268444936">
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" endPc="268436977" name="initialize" parent="WrapBottomMenu" startPc="268436945">
@@ -661,7 +673,7 @@
                 <![CDATA[<div class="description"> Draw the menu title<br/> <div class="param"> dc Device Context</div><br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268444939" name="&lt;init&gt;" parent="WrapBottomMenu" startPc="268444921">
+        <functionEntry accessMode="protected" endPc="268445106" name="&lt;init&gt;" parent="WrapBottomMenu" startPc="268445088">
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" endPc="268437511" name="initialize" parent="WrapTopCustomDelegate" startPc="268437489">
@@ -691,7 +703,7 @@
                 <![CDATA[<div class="description"> Handle the footer being selected<br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268444977" name="&lt;init&gt;" parent="WrapTopCustomDelegate" startPc="268444959">
+        <functionEntry accessMode="protected" endPc="268445144" name="&lt;init&gt;" parent="WrapTopCustomDelegate" startPc="268445126">
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" endPc="268437654" name="initialize" parent="WrapBottomCustomDelegate" startPc="268437632">
@@ -721,7 +733,7 @@
                 <![CDATA[<div class="description"> Handle the title being selected<br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268444863" name="&lt;init&gt;" parent="WrapBottomCustomDelegate" startPc="268444845">
+        <functionEntry accessMode="protected" endPc="268445011" name="&lt;init&gt;" parent="WrapBottomCustomDelegate" startPc="268444993">
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" endPc="268437877" name="initialize" parent="CustomWrapItem" startPc="268437827">
@@ -738,50 +750,56 @@
                 <![CDATA[<div class="description"> Draw the item string at the center of the item.<br/> <div class="param"> dc Device Context</div><br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268444996" name="&lt;init&gt;" parent="CustomWrapItem" startPc="268444978">
+        <functionEntry accessMode="protected" endPc="268445163" name="&lt;init&gt;" parent="CustomWrapItem" startPc="268445145">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268438654" name="pushImagesCustom" startPc="268438106">
+        <functionEntry accessMode="public" endPc="268438128" name="initialize" parent="TestIqMenuView" startPc="268438106">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268445087" name="&lt;init&gt;" parent="TestIqMenuView" startPc="268445069">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438677" name="pushImagesCustom" startPc="268438129">
             <documentation>
                 <![CDATA[<div class="description"> Create the Images custom menu<br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268438687" name="initialize" parent="ImagesMenu" startPc="268438655">
+        <functionEntry accessMode="public" endPc="268438710" name="initialize" parent="ImagesMenu" startPc="268438678">
             <param id="itemHeight"/>
             <param id="backgroundColor"/>
             <documentation>
                 <![CDATA[<div class="description"> Constructor<br/> <div class="param"> itemHeight The pixel height of menu items rendered by this menu</div><br/> <div class="param"> backgroundColor The color for the menu background</div><br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268438948" name="drawTitle" parent="ImagesMenu" startPc="268438688">
+        <functionEntry accessMode="public" endPc="268438971" name="drawTitle" parent="ImagesMenu" startPc="268438711">
             <param id="dc"/>
             <documentation>
                 <![CDATA[<div class="description"> Draw the menu title<br/> <div class="param"> dc Device Context</div><br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268444768" name="&lt;init&gt;" parent="ImagesMenu" startPc="268444750">
+        <functionEntry accessMode="protected" endPc="268444916" name="&lt;init&gt;" parent="ImagesMenu" startPc="268444898">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268438971" name="initialize" parent="ImagesCustomDelegate" startPc="268438949">
+        <functionEntry accessMode="public" endPc="268438994" name="initialize" parent="ImagesCustomDelegate" startPc="268438972">
             <documentation>
                 <![CDATA[<div class="description"> Constructor<br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268438992" name="onSelect" parent="ImagesCustomDelegate" startPc="268438972">
+        <functionEntry accessMode="public" endPc="268439015" name="onSelect" parent="ImagesCustomDelegate" startPc="268438995">
             <param id="item"/>
             <documentation>
                 <![CDATA[<div class="description"> Handle an item being selected<br/> <div class="param"> item The selected menu item</div><br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439025" name="onBack" parent="ImagesCustomDelegate" startPc="268438993">
+        <functionEntry accessMode="public" endPc="268439048" name="onBack" parent="ImagesCustomDelegate" startPc="268439016">
             <documentation>
                 <![CDATA[<div class="description"> Handle the back key being pressed<br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268445015" name="&lt;init&gt;" parent="ImagesCustomDelegate" startPc="268444997">
+        <functionEntry accessMode="protected" endPc="268445182" name="&lt;init&gt;" parent="ImagesCustomDelegate" startPc="268445164">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439107" name="initialize" parent="CustomImagesItem" startPc="268439026">
+        <functionEntry accessMode="public" endPc="268439130" name="initialize" parent="CustomImagesItem" startPc="268439049">
             <param id="id"/>
             <param id="label"/>
             <param id="bitmap"/>
@@ -789,266 +807,269 @@
                 <![CDATA[<div class="description"> Constructor<br/> <div class="param"> id The identifier for this item</div><br/> <div class="param"> label Text to display</div><br/> <div class="param"> bitmap Color of the text</div><br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439385" name="draw" parent="CustomImagesItem" startPc="268439108">
+        <functionEntry accessMode="public" endPc="268439408" name="draw" parent="CustomImagesItem" startPc="268439131">
             <param id="dc"/>
             <documentation>
                 <![CDATA[<div class="description"> Draw the item's label and bitmap<br/> <div class="param"> dc Device context</div><br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268445034" name="&lt;init&gt;" parent="CustomImagesItem" startPc="268445016">
+        <functionEntry accessMode="protected" endPc="268445201" name="&lt;init&gt;" parent="CustomImagesItem" startPc="268445183">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439408" name="initialize" parent="TestIq" startPc="268439386">
+        <functionEntry accessMode="public" endPc="268439431" name="initialize" parent="TestIq" startPc="268439409">
             <documentation>
                 <![CDATA[<div class="description"> Constructor<br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439413" name="onStart" parent="TestIq" startPc="268439409">
+        <functionEntry accessMode="public" endPc="268439501" name="onStart" parent="TestIq" startPc="268439432">
             <param id="state"/>
             <documentation>
                 <![CDATA[<div class="description"> Handle app startup<br/> <div class="param"> state Startup arguments</div><br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439418" name="onStop" parent="TestIq" startPc="268439414">
+        <functionEntry accessMode="public" endPc="268439506" name="onStop" parent="TestIq" startPc="268439502">
             <param id="state"/>
             <documentation>
                 <![CDATA[<div class="description"> Handle app shutdown<br/> <div class="param"> state Shutdown arguments</div><br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439498" name="getInitialView" parent="TestIq" startPc="268439419">
+        <functionEntry accessMode="public" endPc="268439586" name="getInitialView" parent="TestIq" startPc="268439507">
             <documentation>
                 <![CDATA[<div class="description"> Return the initial view for the app<br/> <div class="returns">Returns  Array [View, Delegate]</div><br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268444825" name="&lt;init&gt;" parent="TestIq" startPc="268444807">
+        <functionEntry accessMode="public" endPc="268439646" name="startupTimerCallback" parent="TestIq" startPc="268439587">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268440081" name="pushBasicCustom" startPc="268439499">
+        <functionEntry accessMode="protected" endPc="268444973" name="&lt;init&gt;" parent="TestIq" startPc="268444955">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440229" name="pushBasicCustom" startPc="268439647">
             <documentation>
                 <![CDATA[<div class="description"> Create the Basic Drawables custom menu<br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268440254" name="initialize" parent="ItemView" startPc="268440082">
+        <functionEntry accessMode="public" endPc="268440402" name="initialize" parent="ItemView" startPc="268440230">
             <param id="text"/>
             <documentation>
                 <![CDATA[<div class="description"> Constructor<br/> <div class="param"> text The item text</div><br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268440327" name="onUpdate" parent="ItemView" startPc="268440255">
+        <functionEntry accessMode="public" endPc="268440475" name="onUpdate" parent="ItemView" startPc="268440403">
             <param id="dc"/>
             <documentation>
                 <![CDATA[<div class="description"> Update the view<br/> <div class="param"> dc Device context</div><br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268444882" name="&lt;init&gt;" parent="ItemView" startPc="268444864">
+        <functionEntry accessMode="protected" endPc="268445030" name="&lt;init&gt;" parent="ItemView" startPc="268445012">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268440350" name="initialize" parent="BasicCustomDelegate" startPc="268440328">
+        <functionEntry accessMode="public" endPc="268440498" name="initialize" parent="BasicCustomDelegate" startPc="268440476">
             <documentation>
                 <![CDATA[<div class="description"> Constructor<br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268440437" name="onSelect" parent="BasicCustomDelegate" startPc="268440351">
+        <functionEntry accessMode="public" endPc="268440585" name="onSelect" parent="BasicCustomDelegate" startPc="268440499">
             <param id="item"/>
             <documentation>
                 <![CDATA[<div class="description"> Handle an item being selected<br/> <div class="param"> item The selected menu item</div><br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268440470" name="onBack" parent="BasicCustomDelegate" startPc="268440438">
+        <functionEntry accessMode="public" endPc="268440618" name="onBack" parent="BasicCustomDelegate" startPc="268440586">
             <documentation>
                 <![CDATA[<div class="description"> Handle the back key being pressed<br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268440478" name="onWrap" parent="BasicCustomDelegate" startPc="268440471">
+        <functionEntry accessMode="public" endPc="268440626" name="onWrap" parent="BasicCustomDelegate" startPc="268440619">
             <param id="key"/>
             <documentation>
                 <![CDATA[<div class="description"> Handle the user navigating off the end of the menu<br/> <div class="param"> key The key triggering the menu wrap</div><br/> <div class="returns">Returns  true if wrap is allowed, false otherwise</div><br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268444920" name="&lt;init&gt;" parent="BasicCustomDelegate" startPc="268444902">
+        <functionEntry accessMode="protected" endPc="268445068" name="&lt;init&gt;" parent="BasicCustomDelegate" startPc="268445050">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268440519" name="initialize" parent="CustomItem" startPc="268440479">
+        <functionEntry accessMode="public" endPc="268440667" name="initialize" parent="CustomItem" startPc="268440627">
             <param id="id"/>
             <param id="text"/>
             <documentation>
                 <![CDATA[<div class="description"> Constructor<br/> <div class="param"> id The identifier for this item</div><br/> <div class="param"> text Text to display</div><br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268440887" name="draw" parent="CustomItem" startPc="268440520">
+        <functionEntry accessMode="public" endPc="268441035" name="draw" parent="CustomItem" startPc="268440668">
             <param id="dc"/>
             <documentation>
                 <![CDATA[<div class="description"> Draw the item string at the center of the item.<br/> <div class="param"> dc Device context</div><br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268440901" name="getLabel" parent="CustomItem" startPc="268440888">
+        <functionEntry accessMode="public" endPc="268441049" name="getLabel" parent="CustomItem" startPc="268441036">
             <documentation>
                 <![CDATA[<div class="description"> Get the item label<br/> <div class="returns">Returns  The label</div><br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268444662" name="&lt;init&gt;" parent="CustomItem" startPc="268444644">
+        <functionEntry accessMode="protected" endPc="268444810" name="&lt;init&gt;" parent="CustomItem" startPc="268444792">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268440930" name="initialize" parent="DrawableMenuFooter" startPc="268440902">
+        <functionEntry accessMode="public" endPc="268441078" name="initialize" parent="DrawableMenuFooter" startPc="268441050">
             <documentation>
                 <![CDATA[<div class="description"> Constructor<br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268441009" name="draw" parent="DrawableMenuFooter" startPc="268440931">
+        <functionEntry accessMode="public" endPc="268441157" name="draw" parent="DrawableMenuFooter" startPc="268441079">
             <param id="dc"/>
             <documentation>
                 <![CDATA[<div class="description"> Draw bottom half of the last dividing line below the final item<br/> <div class="param"> dc Device context</div><br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268444844" name="&lt;init&gt;" parent="DrawableMenuFooter" startPc="268444826">
+        <functionEntry accessMode="protected" endPc="268444992" name="&lt;init&gt;" parent="DrawableMenuFooter" startPc="268444974">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268441032" name="initialize" parent="MenuTestIqDelegate" startPc="268441010">
+        <functionEntry accessMode="public" endPc="268441180" name="initialize" parent="MenuTestIqDelegate" startPc="268441158">
             <documentation>
                 <![CDATA[<div class="description"> Constructor<br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268441368" name="onMenu" parent="MenuTestIqDelegate" startPc="268441033">
+        <functionEntry accessMode="public" endPc="268441516" name="onMenu" parent="MenuTestIqDelegate" startPc="268441181">
             <documentation>
                 <![CDATA[<div class="description"> Handle the menu event<br/> <div class="returns">Returns  true if handled, false otherwise</div><br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268444787" name="&lt;init&gt;" parent="MenuTestIqDelegate" startPc="268444769">
+        <functionEntry accessMode="protected" endPc="268444935" name="&lt;init&gt;" parent="MenuTestIqDelegate" startPc="268444917">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268441397" name="initialize" parent="DrawableMenuTitle" startPc="268441369">
+        <functionEntry accessMode="public" endPc="268441545" name="initialize" parent="DrawableMenuTitle" startPc="268441517">
             <documentation>
                 <![CDATA[<div class="description"> Constructor<br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268441741" name="draw" parent="DrawableMenuTitle" startPc="268441398">
+        <functionEntry accessMode="public" endPc="268441889" name="draw" parent="DrawableMenuTitle" startPc="268441546">
             <param id="dc"/>
             <documentation>
                 <![CDATA[<div class="description"> Draw the application icon and main menu title<br/> <div class="param"> dc Device Context</div><br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268444901" name="&lt;init&gt;" parent="DrawableMenuTitle" startPc="268444883">
+        <functionEntry accessMode="protected" endPc="268445049" name="&lt;init&gt;" parent="DrawableMenuTitle" startPc="268445031">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268441764" name="initialize" parent="Menu2TestMenu2Delegate" startPc="268441742">
+        <functionEntry accessMode="public" endPc="268441912" name="initialize" parent="Menu2TestMenu2Delegate" startPc="268441890">
             <documentation>
                 <![CDATA[<div class="description"> Constructor<br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268443321" name="onSelect" parent="Menu2TestMenu2Delegate" startPc="268441765">
+        <functionEntry accessMode="public" endPc="268443469" name="onSelect" parent="Menu2TestMenu2Delegate" startPc="268441913">
             <param id="item"/>
             <documentation>
                 <![CDATA[<div class="description"> Handle an item being selected<br/> <div class="param"> item The selected menu item</div><br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268443354" name="onBack" parent="Menu2TestMenu2Delegate" startPc="268443322">
+        <functionEntry accessMode="public" endPc="268443502" name="onBack" parent="Menu2TestMenu2Delegate" startPc="268443470">
             <documentation>
                 <![CDATA[<div class="description"> Handle the back key being pressed<br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268445053" name="&lt;init&gt;" parent="Menu2TestMenu2Delegate" startPc="268445035">
+        <functionEntry accessMode="protected" endPc="268445220" name="&lt;init&gt;" parent="Menu2TestMenu2Delegate" startPc="268445202">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268443377" name="initialize" parent="Menu2SampleSubMenuDelegate" startPc="268443355">
+        <functionEntry accessMode="public" endPc="268443525" name="initialize" parent="Menu2SampleSubMenuDelegate" startPc="268443503">
             <documentation>
                 <![CDATA[<div class="description"> Constructor<br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268443451" name="onSelect" parent="Menu2SampleSubMenuDelegate" startPc="268443378">
+        <functionEntry accessMode="public" endPc="268443599" name="onSelect" parent="Menu2SampleSubMenuDelegate" startPc="268443526">
             <param id="item"/>
             <documentation>
                 <![CDATA[<div class="description"> Handle an item being selected<br/> <div class="param"> item The selected menu item</div><br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268443484" name="onBack" parent="Menu2SampleSubMenuDelegate" startPc="268443452">
+        <functionEntry accessMode="public" endPc="268443632" name="onBack" parent="Menu2SampleSubMenuDelegate" startPc="268443600">
             <documentation>
                 <![CDATA[<div class="description"> Handle the back key being pressed<br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268443517" name="onDone" parent="Menu2SampleSubMenuDelegate" startPc="268443485">
+        <functionEntry accessMode="public" endPc="268443665" name="onDone" parent="Menu2SampleSubMenuDelegate" startPc="268443633">
             <documentation>
                 <![CDATA[<div class="description"> Handle the done item being selected<br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268444958" name="&lt;init&gt;" parent="Menu2SampleSubMenuDelegate" startPc="268444940">
+        <functionEntry accessMode="protected" endPc="268445125" name="&lt;init&gt;" parent="Menu2SampleSubMenuDelegate" startPc="268445107">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268443540" name="initialize" parent="Menu2SampleCustomDelegate" startPc="268443518">
+        <functionEntry accessMode="public" endPc="268443688" name="initialize" parent="Menu2SampleCustomDelegate" startPc="268443666">
             <documentation>
                 <![CDATA[<div class="description"> Constructor<br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268443648" name="onSelect" parent="Menu2SampleCustomDelegate" startPc="268443541">
+        <functionEntry accessMode="public" endPc="268443796" name="onSelect" parent="Menu2SampleCustomDelegate" startPc="268443689">
             <param id="item"/>
             <documentation>
                 <![CDATA[<div class="description"> Handle an item being selected<br/> <div class="param"> item The selected menu item</div><br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268443681" name="onBack" parent="Menu2SampleCustomDelegate" startPc="268443649">
+        <functionEntry accessMode="public" endPc="268443829" name="onBack" parent="Menu2SampleCustomDelegate" startPc="268443797">
             <documentation>
                 <![CDATA[<div class="description"> Handle the back key being pressed<br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268444681" name="&lt;init&gt;" parent="Menu2SampleCustomDelegate" startPc="268444663">
+        <functionEntry accessMode="protected" endPc="268444829" name="&lt;init&gt;" parent="Menu2SampleCustomDelegate" startPc="268444811">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268443723" name="initialize" parent="CustomIcon" startPc="268443682">
+        <functionEntry accessMode="public" endPc="268443871" name="initialize" parent="CustomIcon" startPc="268443830">
             <documentation>
                 <![CDATA[<div class="description"> Constructor<br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268443810" name="nextState" parent="CustomIcon" startPc="268443724">
+        <functionEntry accessMode="public" endPc="268443958" name="nextState" parent="CustomIcon" startPc="268443872">
             <documentation>
                 <![CDATA[<div class="description"> Advance to the next color state for the drawable<br/> <div class="returns">Returns  The new color state</div><br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268443833" name="getString" parent="CustomIcon" startPc="268443811">
+        <functionEntry accessMode="public" endPc="268443981" name="getString" parent="CustomIcon" startPc="268443959">
             <documentation>
                 <![CDATA[<div class="description"> Return the color string for the menu to use as its sublabel<br/> <div class="returns">Returns  The current color</div><br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268443885" name="draw" parent="CustomIcon" startPc="268443834">
+        <functionEntry accessMode="public" endPc="268444033" name="draw" parent="CustomIcon" startPc="268443982">
             <param id="dc"/>
             <documentation>
                 <![CDATA[<div class="description"> Set the color for the current state and use dc.clear() to fill<br/> the drawable area with that color<br/> <div class="param"> dc Device Context</div><br/></div>]]>
             </documentation>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268444643" name="&lt;init&gt;" parent="CustomIcon" startPc="268444399">
+        <functionEntry accessMode="protected" endPc="268444791" name="&lt;init&gt;" parent="CustomIcon" startPc="268444547">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268443914" name="initialize" parent="MenuForeground" startPc="268443886">
+        <functionEntry accessMode="public" endPc="268444062" name="initialize" parent="MenuForeground" startPc="268444034">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268444023" name="draw" parent="MenuForeground" startPc="268443915">
+        <functionEntry accessMode="public" endPc="268444171" name="draw" parent="MenuForeground" startPc="268444063">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268444725" name="&lt;init&gt;" parent="MenuForeground" startPc="268444707">
+        <functionEntry accessMode="protected" endPc="268444873" name="&lt;init&gt;" parent="MenuForeground" startPc="268444855">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268444706" name="&lt;init&gt;" parent="Drawables" startPc="268444706">
+        <functionEntry accessMode="protected" endPc="268444854" name="&lt;init&gt;" parent="Drawables" startPc="268444854">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268444727" name="&lt;init&gt;" parent="Fonts" startPc="268444727">
+        <functionEntry accessMode="protected" endPc="268444875" name="&lt;init&gt;" parent="Fonts" startPc="268444875">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268444729" name="&lt;init&gt;" parent="JsonData" startPc="268444729">
+        <functionEntry accessMode="protected" endPc="268444877" name="&lt;init&gt;" parent="JsonData" startPc="268444877">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268444397" name="MainLayout" parent="Layouts" startPc="268444024">
+        <functionEntry accessMode="public" endPc="268444545" name="MainLayout" parent="Layouts" startPc="268444172">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268444728" name="&lt;init&gt;" parent="Layouts" startPc="268444728">
+        <functionEntry accessMode="protected" endPc="268444876" name="&lt;init&gt;" parent="Layouts" startPc="268444876">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268444726" name="&lt;init&gt;" parent="Menus" startPc="268444726">
+        <functionEntry accessMode="protected" endPc="268444874" name="&lt;init&gt;" parent="Menus" startPc="268444874">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268444730" name="&lt;init&gt;" parent="Strings" startPc="268444730">
+        <functionEntry accessMode="protected" endPc="268444878" name="&lt;init&gt;" parent="Strings" startPc="268444878">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268444705" name="&lt;init&gt;" parent="Rez" startPc="268444682">
+        <functionEntry accessMode="protected" endPc="268444853" name="&lt;init&gt;" parent="Rez" startPc="268444830">
             <documentation/>
         </functionEntry>
     </functions>

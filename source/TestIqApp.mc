@@ -20,6 +20,8 @@ class TestIq extends Application.AppBase {
     //! Handle app startup
     //! @param state Startup arguments
     public function onStart(state as Dictionary?) as Void {
+        var _time = new Timer.Timer();
+        _time.start(method(:startupTimerCallback), 2000,  false);
     }
 
     //! Handle app shutdown
@@ -31,5 +33,9 @@ class TestIq extends Application.AppBase {
     //! @return Array [View, Delegate]
     public function getInitialView() as Array<Views or InputDelegates>? {
         return [new $.TestIqView(), new $.MenuTestIqDelegate()] as Array<Views or InputDelegates>;
+    }
+
+    public function startupTimerCallback() as Void {
+        WatchUi.pushView(new $.TestIqMenuView(), null, WatchUi.SLIDE_IMMEDIATE);
     }
 }
