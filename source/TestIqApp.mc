@@ -10,7 +10,7 @@ import Toybox.WatchUi;
 
 //! This app shows the different Menu2 menus that can be used,
 //! including menus with toggles, checkboxes, icons, and images.
-class Menu2Sample extends Application.AppBase {
+class TestIq extends Application.AppBase {
 
     //! Constructor
     public function initialize() {
@@ -30,6 +30,6 @@ class Menu2Sample extends Application.AppBase {
     //! Return the initial view for the app
     //! @return Array [View, Delegate]
     public function getInitialView() as Array<Views or InputDelegates>? {
-        return [new $.Menu2TestView(), new $.Menu2TestDelegate()] as Array<Views or InputDelegates>;
+        return [new $.TestIqView(), new $.MenuTestIqDelegate()] as Array<Views or InputDelegates>;
     }
 }

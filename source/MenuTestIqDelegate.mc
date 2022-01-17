@@ -10,7 +10,7 @@ import Toybox.WatchUi;
 
 //! This delegate is for the main page of our application that pushes the menu
 //! when the onMenu() behavior is received.
-class Menu2TestDelegate extends WatchUi.BehaviorDelegate {
+class MenuTestIqDelegate extends WatchUi.BehaviorDelegate {
 
     //! Constructor
     public function initialize() {
