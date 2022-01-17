@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<manifest filename="C:\Users\utente\Desktop\samples\Menu2Sample\manifest.xml"/>
+<pcToLineNum>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="1" lineNum="15" parent="globals/Menu2TestMenu2Delegate" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="1" lineNum="16" parent="globals/Menu2TestMenu2Delegate" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="2" lineNum="21" parent="globals/Menu2TestMenu2Delegate" pc="268435479" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="2" lineNum="22" parent="globals/Menu2TestMenu2Delegate" pc="268435483" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="2" lineNum="23" parent="globals/Menu2TestMenu2Delegate" pc="268435496" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="2" lineNum="26" parent="globals/Menu2TestMenu2Delegate" pc="268435515" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="2" lineNum="27" parent="globals/Menu2TestMenu2Delegate" pc="268435562" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="2" lineNum="28" parent="globals/Menu2TestMenu2Delegate" pc="268435676" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="2" lineNum="29" parent="globals/Menu2TestMenu2Delegate" pc="268435790" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="2" lineNum="30" parent="globals/Menu2TestMenu2Delegate" pc="268435873" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="2" lineNum="31" parent="globals/Menu2TestMenu2Delegate" pc="268435932" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="2" lineNum="34" parent="globals/Menu2TestMenu2Delegate" pc="268435951" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="2" lineNum="35" parent="globals/Menu2TestMenu2Delegate" pc="268435998" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="2" lineNum="36" parent="globals/Menu2TestMenu2Delegate" pc="268436085" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="2" lineNum="37" parent="globals/Menu2TestMenu2Delegate" pc="268436172" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="2" lineNum="38" parent="globals/Menu2TestMenu2Delegate" pc="268436228" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="2" lineNum="39" parent="globals/Menu2TestMenu2Delegate" pc="268436287" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="2" lineNum="42" parent="globals/Menu2TestMenu2Delegate" pc="268436306" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="2" lineNum="43" parent="globals/Menu2TestMenu2Delegate" pc="268436353" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="2" lineNum="44" parent="globals/Menu2TestMenu2Delegate" pc="268436381" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="2" lineNum="45" parent="globals/Menu2TestMenu2Delegate" pc="268436409" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="2" lineNum="46" parent="globals/Menu2TestMenu2Delegate" pc="268436437" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="2" lineNum="47" parent="globals/Menu2TestMenu2Delegate" pc="268436530" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="2" lineNum="48" parent="globals/Menu2TestMenu2Delegate" pc="268436623" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="2" lineNum="49" parent="globals/Menu2TestMenu2Delegate" pc="268436685" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="2" lineNum="50" parent="globals/Menu2TestMenu2Delegate" pc="268436744" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="2" lineNum="53" parent="globals/Menu2TestMenu2Delegate" pc="268436763" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="2" lineNum="54" parent="globals/Menu2TestMenu2Delegate" pc="268436810" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="2" lineNum="55" parent="globals/Menu2TestMenu2Delegate" pc="268436860" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="2" lineNum="56" parent="globals/Menu2TestMenu2Delegate" pc="268436910" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="2" lineNum="57" parent="globals/Menu2TestMenu2Delegate" pc="268436960" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="2" lineNum="59" parent="globals/Menu2TestMenu2Delegate" pc="268437019" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="3" lineNum="64" parent="globals/Menu2TestMenu2Delegate" pc="268437036" symbol="onBack"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="3" lineNum="65" parent="globals/Menu2TestMenu2Delegate" pc="268437040" symbol="onBack"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="4" lineNum="12" parent="globals/Menu2TestMenu2Delegate" pc="268445197" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="4" lineNum="12" parent="globals/Menu2TestMenu2Delegate" pc="268445197" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="5" lineNum="73" parent="globals/Menu2SampleSubMenuDelegate" pc="268437069" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="5" lineNum="74" parent="globals/Menu2SampleSubMenuDelegate" pc="268437073" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="6" lineNum="79" parent="globals/Menu2SampleSubMenuDelegate" pc="268437092" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="6" lineNum="83" parent="globals/Menu2SampleSubMenuDelegate" pc="268437096" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="6" lineNum="84" parent="globals/Menu2SampleSubMenuDelegate" pc="268437114" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="6" lineNum="86" parent="globals/Menu2SampleSubMenuDelegate" pc="268437149" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="7" lineNum="90" parent="globals/Menu2SampleSubMenuDelegate" pc="268437166" symbol="onBack"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="7" lineNum="91" parent="globals/Menu2SampleSubMenuDelegate" pc="268437170" symbol="onBack"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="8" lineNum="95" parent="globals/Menu2SampleSubMenuDelegate" pc="268437199" symbol="onDone"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="8" lineNum="96" parent="globals/Menu2SampleSubMenuDelegate" pc="268437203" symbol="onDone"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="9" lineNum="70" parent="globals/Menu2SampleSubMenuDelegate" pc="268445064" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="9" lineNum="70" parent="globals/Menu2SampleSubMenuDelegate" pc="268445064" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="10" lineNum="104" parent="globals/Menu2SampleCustomDelegate" pc="268437232" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="10" lineNum="105" parent="globals/Menu2SampleCustomDelegate" pc="268437236" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="11" lineNum="110" parent="globals/Menu2SampleCustomDelegate" pc="268437255" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="11" lineNum="111" parent="globals/Menu2SampleCustomDelegate" pc="268437259" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="11" lineNum="114" parent="globals/Menu2SampleCustomDelegate" pc="268437272" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="11" lineNum="115" parent="globals/Menu2SampleCustomDelegate" pc="268437283" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="11" lineNum="116" parent="globals/Menu2SampleCustomDelegate" pc="268437302" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="11" lineNum="117" parent="globals/Menu2SampleCustomDelegate" pc="268437313" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="11" lineNum="118" parent="globals/Menu2SampleCustomDelegate" pc="268437332" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="11" lineNum="119" parent="globals/Menu2SampleCustomDelegate" pc="268437343" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="12" lineNum="124" parent="globals/Menu2SampleCustomDelegate" pc="268437363" symbol="onBack"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="12" lineNum="125" parent="globals/Menu2SampleCustomDelegate" pc="268437367" symbol="onBack"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="13" lineNum="101" parent="globals/Menu2SampleCustomDelegate" pc="268444825" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="13" lineNum="101" parent="globals/Menu2SampleCustomDelegate" pc="268444825" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="14" lineNum="141" parent="globals/CustomIcon" pc="268437396" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="14" lineNum="142" parent="globals/CustomIcon" pc="268437400" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="14" lineNum="143" parent="globals/CustomIcon" pc="268437424" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="15" lineNum="148" parent="globals/CustomIcon" pc="268437438" symbol="nextState"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="15" lineNum="149" parent="globals/CustomIcon" pc="268437442" symbol="nextState"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="15" lineNum="150" parent="globals/CustomIcon" pc="268437461" symbol="nextState"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="15" lineNum="151" parent="globals/CustomIcon" pc="268437490" symbol="nextState"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="15" lineNum="154" parent="globals/CustomIcon" pc="268437506" symbol="nextState"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="16" lineNum="159" parent="globals/CustomIcon" pc="268437525" symbol="getString"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="16" lineNum="160" parent="globals/CustomIcon" pc="268437529" symbol="getString"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="17" lineNum="166" parent="globals/CustomIcon" pc="268437548" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="17" lineNum="167" parent="globals/CustomIcon" pc="268437552" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="17" lineNum="168" parent="globals/CustomIcon" pc="268437571" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="17" lineNum="169" parent="globals/CustomIcon" pc="268437587" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="18" lineNum="133" parent="globals/CustomIcon" pc="268444561" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="18" lineNum="135" parent="globals/CustomIcon" pc="268444579" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="18" lineNum="137" parent="globals/CustomIcon" pc="268444713" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestMenuDelegate.mc" id="18" lineNum="133" parent="globals/CustomIcon" pc="268444561" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="20" lineNum="12" parent="globals" pc="268437600" symbol="pushWrapCustom"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="20" lineNum="13" parent="globals" pc="268437612" symbol="pushWrapCustom"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="20" lineNum="14" parent="globals" pc="268437657" symbol="pushWrapCustom"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="20" lineNum="15" parent="globals" pc="268437717" symbol="pushWrapCustom"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="20" lineNum="16" parent="globals" pc="268437777" symbol="pushWrapCustom"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="20" lineNum="17" parent="globals" pc="268437837" symbol="pushWrapCustom"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="21" lineNum="21" parent="globals" pc="268437894" symbol="pushWrapCustomBottom"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="21" lineNum="22" parent="globals" pc="268437906" symbol="pushWrapCustomBottom"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="21" lineNum="23" parent="globals" pc="268437951" symbol="pushWrapCustomBottom"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="21" lineNum="24" parent="globals" pc="268438011" symbol="pushWrapCustomBottom"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="21" lineNum="25" parent="globals" pc="268438071" symbol="pushWrapCustomBottom"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="21" lineNum="26" parent="globals" pc="268438131" symbol="pushWrapCustomBottom"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="22" lineNum="35" parent="globals/WrapTopMenu" pc="268438188" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="22" lineNum="36" parent="globals/WrapTopMenu" pc="268438192" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="23" lineNum="41" parent="globals/WrapTopMenu" pc="268438221" symbol="drawTitle"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="23" lineNum="42" parent="globals/WrapTopMenu" pc="268438225" symbol="drawTitle"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="23" lineNum="43" parent="globals/WrapTopMenu" pc="268438261" symbol="drawTitle"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="23" lineNum="44" parent="globals/WrapTopMenu" pc="268438278" symbol="drawTitle"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="23" lineNum="45" parent="globals/WrapTopMenu" pc="268438340" symbol="drawTitle"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="23" lineNum="46" parent="globals/WrapTopMenu" pc="268438357" symbol="drawTitle"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="23" lineNum="47" parent="globals/WrapTopMenu" pc="268438393" symbol="drawTitle"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="24" lineNum="52" parent="globals/WrapTopMenu" pc="268438482" symbol="drawFooter"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="24" lineNum="53" parent="globals/WrapTopMenu" pc="268438486" symbol="drawFooter"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="24" lineNum="54" parent="globals/WrapTopMenu" pc="268438499" symbol="drawFooter"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="24" lineNum="56" parent="globals/WrapTopMenu" pc="268438518" symbol="drawFooter"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="24" lineNum="57" parent="globals/WrapTopMenu" pc="268438554" symbol="drawFooter"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="24" lineNum="58" parent="globals/WrapTopMenu" pc="268438566" symbol="drawFooter"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="24" lineNum="59" parent="globals/WrapTopMenu" pc="268438602" symbol="drawFooter"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="24" lineNum="60" parent="globals/WrapTopMenu" pc="268438619" symbol="drawFooter"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="24" lineNum="61" parent="globals/WrapTopMenu" pc="268438657" symbol="drawFooter"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="24" lineNum="62" parent="globals/WrapTopMenu" pc="268438674" symbol="drawFooter"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="24" lineNum="63" parent="globals/WrapTopMenu" pc="268438710" symbol="drawFooter"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="24" lineNum="64" parent="globals/WrapTopMenu" pc="268438798" symbol="drawFooter"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="24" lineNum="65" parent="globals/WrapTopMenu" pc="268438834" symbol="drawFooter"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="25" lineNum="30" parent="globals/WrapTopMenu" pc="268444912" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="25" lineNum="30" parent="globals/WrapTopMenu" pc="268444912" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="26" lineNum="77" parent="globals/WrapBottomMenu" pc="268438985" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="26" lineNum="78" parent="globals/WrapBottomMenu" pc="268438989" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="27" lineNum="83" parent="globals/WrapBottomMenu" pc="268439018" symbol="drawTitle"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="27" lineNum="84" parent="globals/WrapBottomMenu" pc="268439022" symbol="drawTitle"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="27" lineNum="85" parent="globals/WrapBottomMenu" pc="268439041" symbol="drawTitle"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="27" lineNum="86" parent="globals/WrapBottomMenu" pc="268439077" symbol="drawTitle"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="27" lineNum="87" parent="globals/WrapBottomMenu" pc="268439089" symbol="drawTitle"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="27" lineNum="88" parent="globals/WrapBottomMenu" pc="268439125" symbol="drawTitle"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="27" lineNum="89" parent="globals/WrapBottomMenu" pc="268439142" symbol="drawTitle"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="27" lineNum="90" parent="globals/WrapBottomMenu" pc="268439204" symbol="drawTitle"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="27" lineNum="91" parent="globals/WrapBottomMenu" pc="268439221" symbol="drawTitle"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="27" lineNum="92" parent="globals/WrapBottomMenu" pc="268439257" symbol="drawTitle"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="27" lineNum="93" parent="globals/WrapBottomMenu" pc="268439351" symbol="drawTitle"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="27" lineNum="94" parent="globals/WrapBottomMenu" pc="268439387" symbol="drawTitle"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="28" lineNum="72" parent="globals/WrapBottomMenu" pc="268445045" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="28" lineNum="72" parent="globals/WrapBottomMenu" pc="268445045" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="29" lineNum="104" parent="globals/WrapTopCustomDelegate" pc="268439529" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="29" lineNum="105" parent="globals/WrapTopCustomDelegate" pc="268439533" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="30" lineNum="110" parent="globals/WrapTopCustomDelegate" pc="268439552" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="30" lineNum="111" parent="globals/WrapTopCustomDelegate" pc="268439556" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="31" lineNum="115" parent="globals/WrapTopCustomDelegate" pc="268439573" symbol="onBack"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="31" lineNum="116" parent="globals/WrapTopCustomDelegate" pc="268439577" symbol="onBack"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="32" lineNum="122" parent="globals/WrapTopCustomDelegate" pc="268439606" symbol="onWrap"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="32" lineNum="123" parent="globals/WrapTopCustomDelegate" pc="268439610" symbol="onWrap"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="32" lineNum="124" parent="globals/WrapTopCustomDelegate" pc="268439628" symbol="onWrap"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="32" lineNum="126" parent="globals/WrapTopCustomDelegate" pc="268439647" symbol="onWrap"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="33" lineNum="130" parent="globals/WrapTopCustomDelegate" pc="268439651" symbol="onFooter"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="33" lineNum="131" parent="globals/WrapTopCustomDelegate" pc="268439655" symbol="onFooter"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="34" lineNum="101" parent="globals/WrapTopCustomDelegate" pc="268445083" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="34" lineNum="101" parent="globals/WrapTopCustomDelegate" pc="268445083" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="35" lineNum="139" parent="globals/WrapBottomCustomDelegate" pc="268439672" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="35" lineNum="140" parent="globals/WrapBottomCustomDelegate" pc="268439676" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="36" lineNum="145" parent="globals/WrapBottomCustomDelegate" pc="268439695" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="36" lineNum="146" parent="globals/WrapBottomCustomDelegate" pc="268439699" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="37" lineNum="150" parent="globals/WrapBottomCustomDelegate" pc="268439716" symbol="onBack"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="37" lineNum="151" parent="globals/WrapBottomCustomDelegate" pc="268439720" symbol="onBack"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="37" lineNum="152" parent="globals/WrapBottomCustomDelegate" pc="268439748" symbol="onBack"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="38" lineNum="158" parent="globals/WrapBottomCustomDelegate" pc="268439777" symbol="onWrap"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="38" lineNum="159" parent="globals/WrapBottomCustomDelegate" pc="268439781" symbol="onWrap"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="38" lineNum="160" parent="globals/WrapBottomCustomDelegate" pc="268439799" symbol="onWrap"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="38" lineNum="162" parent="globals/WrapBottomCustomDelegate" pc="268439830" symbol="onWrap"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="39" lineNum="166" parent="globals/WrapBottomCustomDelegate" pc="268439834" symbol="onTitle"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="39" lineNum="167" parent="globals/WrapBottomCustomDelegate" pc="268439838" symbol="onTitle"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="40" lineNum="136" parent="globals/WrapBottomCustomDelegate" pc="268444969" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="40" lineNum="136" parent="globals/WrapBottomCustomDelegate" pc="268444969" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="41" lineNum="182" parent="globals/CustomWrapItem" pc="268439867" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="41" lineNum="183" parent="globals/CustomWrapItem" pc="268439871" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="41" lineNum="184" parent="globals/CustomWrapItem" pc="268439897" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="41" lineNum="185" parent="globals/CustomWrapItem" pc="268439907" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="42" lineNum="190" parent="globals/CustomWrapItem" pc="268439918" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="42" lineNum="191" parent="globals/CustomWrapItem" pc="268439922" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="42" lineNum="192" parent="globals/CustomWrapItem" pc="268439936" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="42" lineNum="193" parent="globals/CustomWrapItem" pc="268439950" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="42" lineNum="196" parent="globals/CustomWrapItem" pc="268439967" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="42" lineNum="197" parent="globals/CustomWrapItem" pc="268439981" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="42" lineNum="198" parent="globals/CustomWrapItem" pc="268440017" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="42" lineNum="201" parent="globals/CustomWrapItem" pc="268440032" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="42" lineNum="202" parent="globals/CustomWrapItem" pc="268440064" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="43" lineNum="173" parent="globals/CustomWrapItem" pc="268445121" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleWrapCustom.mc" id="43" lineNum="173" parent="globals/CustomWrapItem" pc="268445121" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="45" lineNum="12" parent="globals" pc="268440146" symbol="pushImagesCustom"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="45" lineNum="13" parent="globals" pc="268440158" symbol="pushImagesCustom"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="45" lineNum="14" parent="globals" pc="268440203" symbol="pushImagesCustom"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="45" lineNum="15" parent="globals" pc="268440290" symbol="pushImagesCustom"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="45" lineNum="16" parent="globals" pc="268440377" symbol="pushImagesCustom"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="45" lineNum="17" parent="globals" pc="268440464" symbol="pushImagesCustom"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="45" lineNum="18" parent="globals" pc="268440551" symbol="pushImagesCustom"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="45" lineNum="19" parent="globals" pc="268440638" symbol="pushImagesCustom"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="46" lineNum="29" parent="globals/ImagesMenu" pc="268440695" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="46" lineNum="30" parent="globals/ImagesMenu" pc="268440699" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="47" lineNum="35" parent="globals/ImagesMenu" pc="268440728" symbol="drawTitle"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="47" lineNum="36" parent="globals/ImagesMenu" pc="268440732" symbol="drawTitle"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="47" lineNum="37" parent="globals/ImagesMenu" pc="268440768" symbol="drawTitle"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="47" lineNum="38" parent="globals/ImagesMenu" pc="268440785" symbol="drawTitle"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="47" lineNum="39" parent="globals/ImagesMenu" pc="268440847" symbol="drawTitle"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="47" lineNum="40" parent="globals/ImagesMenu" pc="268440864" symbol="drawTitle"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="47" lineNum="41" parent="globals/ImagesMenu" pc="268440900" symbol="drawTitle"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="48" lineNum="24" parent="globals/ImagesMenu" pc="268444893" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="48" lineNum="24" parent="globals/ImagesMenu" pc="268444893" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="49" lineNum="49" parent="globals/ImagesCustomDelegate" pc="268440989" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="49" lineNum="50" parent="globals/ImagesCustomDelegate" pc="268440993" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="50" lineNum="55" parent="globals/ImagesCustomDelegate" pc="268441012" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="50" lineNum="56" parent="globals/ImagesCustomDelegate" pc="268441016" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="51" lineNum="60" parent="globals/ImagesCustomDelegate" pc="268441033" symbol="onBack"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="51" lineNum="61" parent="globals/ImagesCustomDelegate" pc="268441037" symbol="onBack"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="52" lineNum="46" parent="globals/ImagesCustomDelegate" pc="268445140" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="52" lineNum="46" parent="globals/ImagesCustomDelegate" pc="268445140" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="53" lineNum="77" parent="globals/CustomImagesItem" pc="268441066" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="53" lineNum="78" parent="globals/CustomImagesItem" pc="268441070" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="53" lineNum="79" parent="globals/CustomImagesItem" pc="268441096" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="53" lineNum="80" parent="globals/CustomImagesItem" pc="268441106" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="53" lineNum="81" parent="globals/CustomImagesItem" pc="268441116" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="54" lineNum="86" parent="globals/CustomImagesItem" pc="268441148" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="54" lineNum="87" parent="globals/CustomImagesItem" pc="268441152" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="54" lineNum="88" parent="globals/CustomImagesItem" pc="268441166" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="54" lineNum="89" parent="globals/CustomImagesItem" pc="268441194" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="54" lineNum="90" parent="globals/CustomImagesItem" pc="268441208" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="54" lineNum="93" parent="globals/CustomImagesItem" pc="268441225" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="54" lineNum="94" parent="globals/CustomImagesItem" pc="268441239" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="54" lineNum="95" parent="globals/CustomImagesItem" pc="268441275" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="54" lineNum="98" parent="globals/CustomImagesItem" pc="268441290" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="54" lineNum="100" parent="globals/CustomImagesItem" pc="268441314" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="54" lineNum="101" parent="globals/CustomImagesItem" pc="268441350" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="55" lineNum="67" parent="globals/CustomImagesItem" pc="268445159" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleImagesCustom.mc" id="55" lineNum="67" parent="globals/CustomImagesItem" pc="268445159" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestDelegate.mc" id="57" lineNum="16" parent="globals/Menu2TestDelegate" pc="268441426" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestDelegate.mc" id="57" lineNum="17" parent="globals/Menu2TestDelegate" pc="268441430" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestDelegate.mc" id="58" lineNum="22" parent="globals/Menu2TestDelegate" pc="268441449" symbol="onMenu"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestDelegate.mc" id="58" lineNum="24" parent="globals/Menu2TestDelegate" pc="268441453" symbol="onMenu"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestDelegate.mc" id="58" lineNum="27" parent="globals/Menu2TestDelegate" pc="268441521" symbol="onMenu"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestDelegate.mc" id="58" lineNum="28" parent="globals/Menu2TestDelegate" pc="268441575" symbol="onMenu"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestDelegate.mc" id="58" lineNum="29" parent="globals/Menu2TestDelegate" pc="268441625" symbol="onMenu"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestDelegate.mc" id="58" lineNum="30" parent="globals/Menu2TestDelegate" pc="268441675" symbol="onMenu"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestDelegate.mc" id="58" lineNum="31" parent="globals/Menu2TestDelegate" pc="268441725" symbol="onMenu"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestDelegate.mc" id="58" lineNum="32" parent="globals/Menu2TestDelegate" pc="268441781" symbol="onMenu"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestDelegate.mc" id="59" lineNum="13" parent="globals/Menu2TestDelegate" pc="268444950" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestDelegate.mc" id="59" lineNum="13" parent="globals/Menu2TestDelegate" pc="268444950" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestDelegate.mc" id="60" lineNum="40" parent="globals/DrawableMenuTitle" pc="268441785" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestDelegate.mc" id="60" lineNum="41" parent="globals/DrawableMenuTitle" pc="268441789" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestDelegate.mc" id="61" lineNum="46" parent="globals/DrawableMenuTitle" pc="268441814" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestDelegate.mc" id="61" lineNum="47" parent="globals/DrawableMenuTitle" pc="268441818" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestDelegate.mc" id="61" lineNum="48" parent="globals/DrawableMenuTitle" pc="268441825" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestDelegate.mc" id="61" lineNum="49" parent="globals/DrawableMenuTitle" pc="268441866" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestDelegate.mc" id="61" lineNum="50" parent="globals/DrawableMenuTitle" pc="268441879" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestDelegate.mc" id="61" lineNum="52" parent="globals/DrawableMenuTitle" pc="268441909" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestDelegate.mc" id="61" lineNum="53" parent="globals/DrawableMenuTitle" pc="268441937" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestDelegate.mc" id="61" lineNum="54" parent="globals/DrawableMenuTitle" pc="268441968" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestDelegate.mc" id="61" lineNum="55" parent="globals/DrawableMenuTitle" pc="268441978" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestDelegate.mc" id="61" lineNum="57" parent="globals/DrawableMenuTitle" pc="268441997" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestDelegate.mc" id="61" lineNum="58" parent="globals/DrawableMenuTitle" pc="268442033" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestDelegate.mc" id="61" lineNum="60" parent="globals/DrawableMenuTitle" pc="268442045" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestDelegate.mc" id="61" lineNum="61" parent="globals/DrawableMenuTitle" pc="268442063" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestDelegate.mc" id="61" lineNum="62" parent="globals/DrawableMenuTitle" pc="268442099" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestDelegate.mc" id="62" lineNum="37" parent="globals/DrawableMenuTitle" pc="268445007" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestDelegate.mc" id="62" lineNum="37" parent="globals/DrawableMenuTitle" pc="268445007" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestView.mc" id="64" lineNum="16" parent="globals/Menu2TestView" pc="268442158" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestView.mc" id="64" lineNum="17" parent="globals/Menu2TestView" pc="268442162" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestView.mc" id="65" lineNum="22" parent="globals/Menu2TestView" pc="268442181" symbol="onLayout"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestView.mc" id="65" lineNum="23" parent="globals/Menu2TestView" pc="268442185" symbol="onLayout"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestView.mc" id="66" lineNum="29" parent="globals/Menu2TestView" pc="268442227" symbol="onShow"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestView.mc" id="67" lineNum="34" parent="globals/Menu2TestView" pc="268442232" symbol="onUpdate"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestView.mc" id="67" lineNum="36" parent="globals/Menu2TestView" pc="268442236" symbol="onUpdate"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestView.mc" id="68" lineNum="42" parent="globals/Menu2TestView" pc="268442257" symbol="onHide"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestView.mc" id="69" lineNum="13" parent="globals/Menu2TestView" pc="268445178" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestView.mc" id="69" lineNum="13" parent="globals/Menu2TestView" pc="268445178" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="71" lineNum="12" parent="globals" pc="268442262" symbol="pushBasicCustom"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="71" lineNum="13" parent="globals" pc="268442274" symbol="pushBasicCustom"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="71" lineNum="19" parent="globals" pc="268442452" symbol="pushBasicCustom"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="71" lineNum="20" parent="globals" pc="268442500" symbol="pushBasicCustom"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="71" lineNum="21" parent="globals" pc="268442548" symbol="pushBasicCustom"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="71" lineNum="22" parent="globals" pc="268442596" symbol="pushBasicCustom"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="71" lineNum="23" parent="globals" pc="268442644" symbol="pushBasicCustom"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="71" lineNum="24" parent="globals" pc="268442692" symbol="pushBasicCustom"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="71" lineNum="25" parent="globals" pc="268442740" symbol="pushBasicCustom"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="71" lineNum="26" parent="globals" pc="268442788" symbol="pushBasicCustom"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="72" lineNum="36" parent="globals/ItemView" pc="268442845" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="72" lineNum="37" parent="globals/ItemView" pc="268442849" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="72" lineNum="38" parent="globals/ItemView" pc="268442867" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="73" lineNum="49" parent="globals/ItemView" pc="268443018" symbol="onUpdate"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="73" lineNum="50" parent="globals/ItemView" pc="268443022" symbol="onUpdate"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="73" lineNum="51" parent="globals/ItemView" pc="268443058" symbol="onUpdate"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="73" lineNum="52" parent="globals/ItemView" pc="268443070" symbol="onUpdate"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="74" lineNum="30" parent="globals/ItemView" pc="268444988" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="74" lineNum="30" parent="globals/ItemView" pc="268444988" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="75" lineNum="60" parent="globals/BasicCustomDelegate" pc="268443091" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="75" lineNum="61" parent="globals/BasicCustomDelegate" pc="268443095" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="76" lineNum="66" parent="globals/BasicCustomDelegate" pc="268443114" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="76" lineNum="67" parent="globals/BasicCustomDelegate" pc="268443118" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="76" lineNum="68" parent="globals/BasicCustomDelegate" pc="268443184" symbol="onSelect"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="77" lineNum="72" parent="globals/BasicCustomDelegate" pc="268443201" symbol="onBack"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="77" lineNum="73" parent="globals/BasicCustomDelegate" pc="268443205" symbol="onBack"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="78" lineNum="79" parent="globals/BasicCustomDelegate" pc="268443234" symbol="onWrap"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="78" lineNum="81" parent="globals/BasicCustomDelegate" pc="268443238" symbol="onWrap"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="79" lineNum="57" parent="globals/BasicCustomDelegate" pc="268445026" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="79" lineNum="57" parent="globals/BasicCustomDelegate" pc="268445026" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="80" lineNum="94" parent="globals/CustomItem" pc="268443242" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="80" lineNum="95" parent="globals/CustomItem" pc="268443246" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="80" lineNum="96" parent="globals/CustomItem" pc="268443272" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="81" lineNum="101" parent="globals/CustomItem" pc="268443283" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="81" lineNum="102" parent="globals/CustomItem" pc="268443287" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="81" lineNum="103" parent="globals/CustomItem" pc="268443301" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="81" lineNum="104" parent="globals/CustomItem" pc="268443315" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="81" lineNum="107" parent="globals/CustomItem" pc="268443332" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="81" lineNum="108" parent="globals/CustomItem" pc="268443346" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="81" lineNum="109" parent="globals/CustomItem" pc="268443382" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="81" lineNum="112" parent="globals/CustomItem" pc="268443397" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="81" lineNum="113" parent="globals/CustomItem" pc="268443433" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="81" lineNum="114" parent="globals/CustomItem" pc="268443514" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="81" lineNum="115" parent="globals/CustomItem" pc="268443550" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="81" lineNum="116" parent="globals/CustomItem" pc="268443588" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="82" lineNum="121" parent="globals/CustomItem" pc="268443651" symbol="getLabel"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="82" lineNum="122" parent="globals/CustomItem" pc="268443655" symbol="getLabel"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="83" lineNum="87" parent="globals/CustomItem" pc="268444806" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="83" lineNum="87" parent="globals/CustomItem" pc="268444806" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="84" lineNum="130" parent="globals/DrawableMenuFooter" pc="268443665" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="84" lineNum="131" parent="globals/DrawableMenuFooter" pc="268443669" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="85" lineNum="136" parent="globals/DrawableMenuFooter" pc="268443694" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="85" lineNum="137" parent="globals/DrawableMenuFooter" pc="268443698" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="85" lineNum="138" parent="globals/DrawableMenuFooter" pc="268443734" symbol="draw"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="86" lineNum="127" parent="globals/DrawableMenuFooter" pc="268444931" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuSampleBasicCustom.mc" id="86" lineNum="127" parent="globals/DrawableMenuFooter" pc="268444931" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestApp.mc" id="88" lineNum="16" parent="globals/Menu2Sample" pc="268443773" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestApp.mc" id="88" lineNum="17" parent="globals/Menu2Sample" pc="268443777" symbol="initialize"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestApp.mc" id="89" lineNum="22" parent="globals/Menu2Sample" pc="268443796" symbol="onStart"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestApp.mc" id="90" lineNum="27" parent="globals/Menu2Sample" pc="268443801" symbol="onStop"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestApp.mc" id="91" lineNum="32" parent="globals/Menu2Sample" pc="268443806" symbol="getInitialView"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestApp.mc" id="91" lineNum="33" parent="globals/Menu2Sample" pc="268443810" symbol="getInitialView"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestApp.mc" id="92" lineNum="13" parent="globals/Menu2Sample" pc="268445102" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\utente\\Desktop\\samples\\Menu2Sample\\source\\MenuTestApp.mc" id="92" lineNum="13" parent="globals/Menu2Sample" pc="268445102" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="94" lineNum="17" parent="globals/Rez/Drawables/MenuForeground" pc="268443886" symbol="initialize"/>
+<entry filename="Rez" id="94" lineNum="18" parent="globals/Rez/Drawables/MenuForeground" pc="268443890" symbol="initialize"/>
+<entry filename="Rez" id="95" lineNum="21" parent="globals/Rez/Drawables/MenuForeground" pc="268443915" symbol="draw"/>
+<entry filename="Rez" id="95" lineNum="22" parent="globals/Rez/Drawables/MenuForeground" pc="268443919" symbol="draw"/>
+<entry filename="Rez" id="95" lineNum="23" parent="globals/Rez/Drawables/MenuForeground" pc="268443955" symbol="draw"/>
+<entry filename="Rez" id="95" lineNum="24" parent="globals/Rez/Drawables/MenuForeground" pc="268443987" symbol="draw"/>
+<entry filename="Rez" id="96" lineNum="15" parent="globals/Rez/Drawables/MenuForeground" pc="268444869" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="96" lineNum="15" parent="globals/Rez/Drawables/MenuForeground" pc="268444869" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="97" lineNum="2" parent="globals/Rez/Drawables" pc="268444868" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="98" lineNum="31" parent="globals/Rez/Fonts" pc="268444889" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="99" lineNum="33" parent="globals/Rez/JsonData" pc="268444891" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="100" lineNum="42" parent="globals/Rez/Layouts" pc="268444024" symbol="MainLayout"/>
+<entry filename="Rez" id="100" lineNum="44" parent="globals/Rez/Layouts" pc="268444036" symbol="MainLayout"/>
+<entry filename="Rez" id="100" lineNum="45" parent="globals/Rez/Layouts" pc="268444188" symbol="MainLayout"/>
+<entry filename="Rez" id="100" lineNum="46" parent="globals/Rez/Layouts" pc="268444340" symbol="MainLayout"/>
+<entry filename="Rez" id="100" lineNum="48" parent="globals/Rez/Layouts" pc="268444522" symbol="MainLayout"/>
+<entry filename="Rez" id="101" lineNum="35" parent="globals/Rez/Layouts" pc="268444890" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="102" lineNum="53" parent="globals/Rez/Menus" pc="268444888" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="103" lineNum="55" parent="globals/Rez/Strings" pc="268444892" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="104" lineNum="1" parent="globals/Rez" pc="268444844" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="104" lineNum="1" parent="globals/Rez" pc="268444844" symbol="&lt;init&gt;"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="53" symbol="&lt;globals/ItemView/&lt;&gt;_text&gt;"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="59" symbol="basic"/>
+<entry id="8389346" symbol="text"/>
+<entry field="true" id="55" symbol="&lt;globals/CustomWrapItem/&lt;&gt;_textColor&gt;"/>
+<entry field="true" id="44" symbol="mouse"/>
+<entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+<entry id="60" symbol="images"/>
+<entry id="10" object="true" symbol="Menu2SampleSubMenuDelegate"/>
+<entry id="4" module="true" symbol="globals/Rez/Menus"/>
+<entry id="8390740" method="true" symbol="drawTitle"/>
+<entry id="8390437" symbol="alignment"/>
+<entry id="24" object="true" symbol="Menu2TestDelegate"/>
+<entry id="48" method="true" symbol="MainLayout"/>
+<entry field="true" id="34" symbol="&lt;globals/CustomIcon/&lt;&gt;_colorStrings&gt;"/>
+<entry id="12" object="true" symbol="CustomIcon"/>
+<entry field="true" id="33" symbol="&lt;globals/CustomIcon/&lt;&gt;_colors&gt;"/>
+<entry id="22" object="true" symbol="ImagesCustomDelegate"/>
+<entry field="true" id="57" symbol="&lt;globals/CustomImagesItem/&lt;&gt;_bitmap&gt;"/>
+<entry id="16" object="true" symbol="WrapBottomMenu"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8390413" method="true" symbol="getLabel"/>
+<entry id="8390751" method="true" symbol="onFooter"/>
+<entry field="true" id="52" symbol="AppName"/>
+<entry field="true" id="50" symbol="HomeTitle"/>
+<entry id="13" method="true" symbol="pushWrapCustom"/>
+<entry id="8" module="true" symbol="globals/Rez/Strings"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389081" method="true" symbol="onBack"/>
+<entry id="2" module="true" symbol="globals/Rez"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8390754" symbol="foreground"/>
+<entry id="8390422" method="true" symbol="onDone"/>
+<entry id="8390439" symbol="disabled"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389348" symbol="font"/>
+<entry id="40" module="true" symbol="Menus"/>
+<entry id="32" object="true" symbol="Menu2Sample"/>
+<entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+<entry field="true" id="41" symbol="bear"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="38" symbol="&lt;globals/CustomItem/&lt;&gt;_label&gt;"/>
+<entry field="true" id="43" symbol="fox"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="9" object="true" symbol="Menu2TestMenu2Delegate"/>
+<entry id="26" object="true" symbol="Menu2TestView"/>
+<entry id="30" object="true" symbol="CustomItem"/>
+<entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+<entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+<entry id="61" symbol="wrap"/>
+<entry id="8390752" symbol="focusItemHeight"/>
+<entry id="28" object="true" symbol="ItemView"/>
+<entry id="37" method="true" symbol="getString"/>
+<entry field="true" id="56" symbol="&lt;globals/CustomImagesItem/&lt;&gt;_label&gt;"/>
+<entry field="true" id="8390438" symbol="enabled"/>
+<entry id="27" method="true" symbol="pushBasicCustom"/>
+<entry id="29" object="true" symbol="BasicCustomDelegate"/>
+<entry field="true" id="35" symbol="&lt;globals/CustomIcon/&lt;&gt;_index&gt;"/>
+<entry id="8389619" method="true" symbol="onSelect"/>
+<entry field="true" id="54" symbol="&lt;globals/CustomWrapItem/&lt;&gt;_label&gt;"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="11" object="true" symbol="Menu2SampleCustomDelegate"/>
+<entry id="17" object="true" symbol="WrapTopCustomDelegate"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="68" symbol="item7"/>
+<entry id="67" symbol="item6"/>
+<entry id="66" symbol="item5"/>
+<entry id="65" symbol="item4"/>
+<entry id="64" symbol="item3"/>
+<entry id="63" symbol="item2"/>
+<entry id="62" symbol="item1"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry field="true" id="46" symbol="LauncherIcon"/>
+<entry id="8388610" symbol="statics"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="49" symbol="MainMenuTitle"/>
+<entry id="18" object="true" symbol="WrapBottomCustomDelegate"/>
+<entry id="8389350" module="true" symbol="globals"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="51" symbol="Prompt"/>
+<entry field="true" id="42" symbol="dog"/>
+<entry id="21" object="true" symbol="ImagesMenu"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="19" object="true" symbol="CustomWrapItem"/>
+<entry id="15" object="true" symbol="WrapTopMenu"/>
+<entry id="8390753" symbol="footer"/>
+<entry id="8390749" method="true" symbol="onWrap"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="58" symbol="&lt;globals/CustomImagesItem/&lt;&gt;_bitmapOffset&gt;"/>
+<entry id="8389347" symbol="color"/>
+<entry id="25" object="true" symbol="DrawableMenuTitle"/>
+<entry id="8390750" method="true" symbol="onTitle"/>
+<entry id="14" method="true" symbol="pushWrapCustomBottom"/>
+<entry id="39" module="true" symbol="Layouts"/>
+<entry field="true" id="45" symbol="turtle"/>
+<entry id="23" object="true" symbol="CustomImagesItem"/>
+<entry id="8390741" method="true" symbol="drawFooter"/>
+<entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+<entry field="true" id="8389743" symbol="backgroundColor"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8388635" module="true" symbol="Application"/>
+<entry field="true" id="8389642" symbol="title"/>
+<entry id="31" object="true" symbol="DrawableMenuFooter"/>
+<entry id="36" method="true" symbol="nextState"/>
+<entry id="47" object="true" symbol="MenuForeground"/>
+<entry id="20" method="true" symbol="pushImagesCustom"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435928" name="toggleMenu" stackId="3" startPc="268435515"/>
+<entry endPc="268436283" name="checkMenu" stackId="4" startPc="268435951"/>
+<entry endPc="268436740" name="drawable1" stackId="6" startPc="268436306"/>
+<entry endPc="268436740" name="iconMenu" stackId="5" startPc="268436306"/>
+<entry endPc="268436740" name="drawable3" stackId="8" startPc="268436306"/>
+<entry endPc="268436740" name="drawable2" stackId="7" startPc="268436306"/>
+<entry endPc="268437015" name="customMenu" stackId="9" startPc="268436763"/>
+<entry endPc="268437034" name="id" stackId="2" startPc="268435483"/>
+<entry arg="true" endPc="268437035" name="item" stackId="1" startPc="268435479"/>
+<entry arg="true" endPc="268437165" name="item" stackId="1" startPc="268437092"/>
+<entry endPc="268437361" name="id" stackId="2" startPc="268437259"/>
+<entry arg="true" endPc="268437362" name="item" stackId="1" startPc="268437255"/>
+<entry endPc="268437598" name="color" stackId="2" startPc="268437552"/>
+<entry arg="true" endPc="268437599" name="dc" stackId="1" startPc="268437548"/>
+<entry endPc="268437892" name="customMenu" stackId="1" startPc="268437612"/>
+<entry endPc="268438186" name="customMenu" stackId="1" startPc="268437906"/>
+<entry arg="true" endPc="268438220" name="backgroundColor" stackId="2" startPc="268438188"/>
+<entry arg="true" endPc="268438220" name="itemHeight" stackId="1" startPc="268438188"/>
+<entry arg="true" endPc="268438481" name="dc" stackId="1" startPc="268438221"/>
+<entry endPc="268438983" name="height" stackId="2" startPc="268438486"/>
+<entry endPc="268438983" name="centerX" stackId="3" startPc="268438486"/>
+<entry arg="true" endPc="268438984" name="dc" stackId="1" startPc="268438482"/>
+<entry arg="true" endPc="268439017" name="backgroundColor" stackId="2" startPc="268438985"/>
+<entry arg="true" endPc="268439017" name="itemHeight" stackId="1" startPc="268438985"/>
+<entry endPc="268439527" name="centerX" stackId="2" startPc="268439022"/>
+<entry arg="true" endPc="268439528" name="dc" stackId="1" startPc="268439018"/>
+<entry arg="true" endPc="268439572" name="item" stackId="1" startPc="268439552"/>
+<entry arg="true" endPc="268439650" name="key" stackId="1" startPc="268439606"/>
+<entry arg="true" endPc="268439715" name="item" stackId="1" startPc="268439695"/>
+<entry arg="true" endPc="268439833" name="key" stackId="1" startPc="268439777"/>
+<entry arg="true" endPc="268439917" name="label" stackId="2" startPc="268439867"/>
+<entry arg="true" endPc="268439917" name="textColor" stackId="3" startPc="268439867"/>
+<entry arg="true" endPc="268439917" name="id" stackId="1" startPc="268439867"/>
+<entry endPc="268440144" name="font" stackId="2" startPc="268439922"/>
+<entry arg="true" endPc="268440145" name="dc" stackId="1" startPc="268439918"/>
+<entry endPc="268440693" name="customMenu" stackId="1" startPc="268440158"/>
+<entry arg="true" endPc="268440727" name="backgroundColor" stackId="2" startPc="268440695"/>
+<entry arg="true" endPc="268440727" name="itemHeight" stackId="1" startPc="268440695"/>
+<entry arg="true" endPc="268440988" name="dc" stackId="1" startPc="268440728"/>
+<entry arg="true" endPc="268441032" name="item" stackId="1" startPc="268441012"/>
+<entry arg="true" endPc="268441147" name="label" stackId="2" startPc="268441066"/>
+<entry arg="true" endPc="268441147" name="bitmap" stackId="3" startPc="268441066"/>
+<entry arg="true" endPc="268441147" name="id" stackId="1" startPc="268441066"/>
+<entry endPc="268441424" name="font" stackId="2" startPc="268441152"/>
+<entry endPc="268441424" name="bmXY" stackId="3" startPc="268441152"/>
+<entry arg="true" endPc="268441425" name="dc" stackId="1" startPc="268441148"/>
+<entry endPc="268441783" name="menu" stackId="1" startPc="268441453"/>
+<entry endPc="268442156" name="labelWidth" stackId="5" startPc="268441818"/>
+<entry endPc="268442156" name="bitmapY" stackId="7" startPc="268441818"/>
+<entry endPc="268442156" name="appIcon" stackId="3" startPc="268441818"/>
+<entry endPc="268442156" name="labelY" stackId="9" startPc="268441818"/>
+<entry endPc="268442156" name="bitmapX" stackId="6" startPc="268441818"/>
+<entry endPc="268442156" name="labelX" stackId="8" startPc="268441818"/>
+<entry endPc="268442156" name="bitmapWidth" stackId="4" startPc="268441818"/>
+<entry endPc="268442156" name="spacing" stackId="2" startPc="268441818"/>
+<entry arg="true" endPc="268442157" name="dc" stackId="1" startPc="268441814"/>
+<entry arg="true" endPc="268442226" name="dc" stackId="1" startPc="268442181"/>
+<entry arg="true" endPc="268442256" name="dc" stackId="1" startPc="268442232"/>
+<entry endPc="268442843" name="customMenu" stackId="1" startPc="268442274"/>
+<entry arg="true" endPc="268443017" name="text" stackId="1" startPc="268442845"/>
+<entry arg="true" endPc="268443090" name="dc" stackId="1" startPc="268443018"/>
+<entry arg="true" endPc="268443200" name="item" stackId="1" startPc="268443114"/>
+<entry arg="true" endPc="268443241" name="key" stackId="1" startPc="268443234"/>
+<entry arg="true" endPc="268443282" name="text" stackId="2" startPc="268443242"/>
+<entry arg="true" endPc="268443282" name="id" stackId="1" startPc="268443242"/>
+<entry endPc="268443649" name="font" stackId="2" startPc="268443287"/>
+<entry arg="true" endPc="268443650" name="dc" stackId="1" startPc="268443283"/>
+<entry arg="true" endPc="268443772" name="dc" stackId="1" startPc="268443694"/>
+<entry arg="true" endPc="268443800" name="state" stackId="1" startPc="268443796"/>
+<entry arg="true" endPc="268443805" name="state" stackId="1" startPc="268443801"/>
+<entry arg="true" endPc="268444023" name="dc" stackId="1" startPc="268443915"/>
+<entry endPc="268444558" name="rez_cmp_local_text_4103178115" stackId="3" startPc="268444036"/>
+<entry endPc="268444558" name="rez_cmp_local_text_1840040304" stackId="4" startPc="268444036"/>
+<entry endPc="268444558" name="rez_cmp_local_text_1698915436" stackId="2" startPc="268444036"/>
+<entry arg="true" endPc="268444559" name="dc" stackId="1" startPc="268444024"/>
+</localVars>
+<annotations>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="bear"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="dog"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="fox"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="mouse"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="turtle"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MainMenuTitle"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="HomeTitle"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="Prompt"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+</annotations>
+<dataEntryOffsetMappings>
+<dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry label="globals/CustomIcon" offset="326" parentId="globals" symbolId="CustomIcon" type="class"/>
+<dataEntry label="globals/CustomItem" offset="421" parentId="globals" symbolId="CustomItem" type="class"/>
+<dataEntry label="globals/Menu2SampleCustomDelegate" offset="492" parentId="globals" symbolId="Menu2SampleCustomDelegate" type="class"/>
+<dataEntry label="globals/Rez" offset="555" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/Rez/Drawables" offset="634" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Drawables/MenuForeground" offset="721" parentId="Drawables" symbolId="MenuForeground" type="class"/>
+<dataEntry label="globals/Rez/Menus" offset="776" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry label="globals/Rez/Fonts" offset="807" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry label="globals/Rez/Layouts" offset="838" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/JsonData" offset="877" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="908" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry label="globals/ImagesMenu" offset="971" parentId="globals" symbolId="ImagesMenu" type="class"/>
+<dataEntry label="globals/WrapTopMenu" offset="1026" parentId="globals" symbolId="WrapTopMenu" type="class"/>
+<dataEntry label="globals/DrawableMenuFooter" offset="1089" parentId="globals" symbolId="DrawableMenuFooter" type="class"/>
+<dataEntry label="globals/Menu2TestDelegate" offset="1144" parentId="globals" symbolId="Menu2TestDelegate" type="class"/>
+<dataEntry label="globals/WrapBottomCustomDelegate" offset="1199" parentId="globals" symbolId="WrapBottomCustomDelegate" type="class"/>
+<dataEntry label="globals/ItemView" offset="1278" parentId="globals" symbolId="ItemView" type="class"/>
+<dataEntry label="globals/DrawableMenuTitle" offset="1341" parentId="globals" symbolId="DrawableMenuTitle" type="class"/>
+<dataEntry label="globals/BasicCustomDelegate" offset="1396" parentId="globals" symbolId="BasicCustomDelegate" type="class"/>
+<dataEntry label="globals/WrapBottomMenu" offset="1467" parentId="globals" symbolId="WrapBottomMenu" type="class"/>
+<dataEntry label="globals/Menu2SampleSubMenuDelegate" offset="1522" parentId="globals" symbolId="Menu2SampleSubMenuDelegate" type="class"/>
+<dataEntry label="globals/WrapTopCustomDelegate" offset="1593" parentId="globals" symbolId="WrapTopCustomDelegate" type="class"/>
+<dataEntry label="globals/Menu2Sample" offset="1672" parentId="globals" symbolId="Menu2Sample" type="class"/>
+<dataEntry label="globals/CustomWrapItem" offset="1743" parentId="globals" symbolId="CustomWrapItem" type="class"/>
+<dataEntry label="globals/ImagesCustomDelegate" offset="1814" parentId="globals" symbolId="ImagesCustomDelegate" type="class"/>
+<dataEntry label="globals/CustomImagesItem" offset="1877" parentId="globals" symbolId="CustomImagesItem" type="class"/>
+<dataEntry label="globals/Menu2TestView" offset="1956" parentId="globals" symbolId="Menu2TestView" type="class"/>
+<dataEntry label="globals/Menu2TestMenu2Delegate" offset="2035" parentId="globals" symbolId="Menu2TestMenu2Delegate" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" endPc="268435478" name="initialize" parent="Menu2TestMenu2Delegate" startPc="268435456">
+<documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437035" name="onSelect" parent="Menu2TestMenu2Delegate" startPc="268435479">
+<param id="item"/>
+<documentation><![CDATA[<div class="description"> Handle an item being selected<br/> <div class="param"> item The selected menu item</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437068" name="onBack" parent="Menu2TestMenu2Delegate" startPc="268437036">
+<documentation><![CDATA[<div class="description"> Handle the back key being pressed<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268445215" name="&lt;init&gt;" parent="Menu2TestMenu2Delegate" startPc="268445197">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437091" name="initialize" parent="Menu2SampleSubMenuDelegate" startPc="268437069">
+<documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437165" name="onSelect" parent="Menu2SampleSubMenuDelegate" startPc="268437092">
+<param id="item"/>
+<documentation><![CDATA[<div class="description"> Handle an item being selected<br/> <div class="param"> item The selected menu item</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437198" name="onBack" parent="Menu2SampleSubMenuDelegate" startPc="268437166">
+<documentation><![CDATA[<div class="description"> Handle the back key being pressed<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437231" name="onDone" parent="Menu2SampleSubMenuDelegate" startPc="268437199">
+<documentation><![CDATA[<div class="description"> Handle the done item being selected<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268445082" name="&lt;init&gt;" parent="Menu2SampleSubMenuDelegate" startPc="268445064">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437254" name="initialize" parent="Menu2SampleCustomDelegate" startPc="268437232">
+<documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437362" name="onSelect" parent="Menu2SampleCustomDelegate" startPc="268437255">
+<param id="item"/>
+<documentation><![CDATA[<div class="description"> Handle an item being selected<br/> <div class="param"> item The selected menu item</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437395" name="onBack" parent="Menu2SampleCustomDelegate" startPc="268437363">
+<documentation><![CDATA[<div class="description"> Handle the back key being pressed<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268444843" name="&lt;init&gt;" parent="Menu2SampleCustomDelegate" startPc="268444825">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437437" name="initialize" parent="CustomIcon" startPc="268437396">
+<documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437524" name="nextState" parent="CustomIcon" startPc="268437438">
+<documentation><![CDATA[<div class="description"> Advance to the next color state for the drawable<br/> <div class="returns">Returns  The new color state</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437547" name="getString" parent="CustomIcon" startPc="268437525">
+<documentation><![CDATA[<div class="description"> Return the color string for the menu to use as its sublabel<br/> <div class="returns">Returns  The current color</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437599" name="draw" parent="CustomIcon" startPc="268437548">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Set the color for the current state and use dc.clear() to fill<br/> the drawable area with that color<br/> <div class="param"> dc Device Context</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268444805" name="&lt;init&gt;" parent="CustomIcon" startPc="268444561">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437893" name="pushWrapCustom" startPc="268437600">
+<documentation><![CDATA[<div class="description"> Create the top menu of the Wrap custom menu<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438187" name="pushWrapCustomBottom" startPc="268437894">
+<documentation><![CDATA[<div class="description"> Create the sub-menu menu of the Wrap custom menu<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438220" name="initialize" parent="WrapTopMenu" startPc="268438188">
+<param id="itemHeight"/>
+<param id="backgroundColor"/>
+<documentation><![CDATA[<div class="description"> Constructor<br/> <div class="param"> itemHeight The pixel height of menu items rendered by this menu</div><br/> <div class="param"> backgroundColor The color for the menu background</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438481" name="drawTitle" parent="WrapTopMenu" startPc="268438221">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the menu title<br/> <div class="param"> dc Device Context</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438984" name="drawFooter" parent="WrapTopMenu" startPc="268438482">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the menu footer<br/> <div class="param"> dc Device Context</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268444930" name="&lt;init&gt;" parent="WrapTopMenu" startPc="268444912">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439017" name="initialize" parent="WrapBottomMenu" startPc="268438985">
+<param id="itemHeight"/>
+<param id="backgroundColor"/>
+<documentation><![CDATA[<div class="description"> Constructor<br/> <div class="param"> itemHeight The pixel height of menu items rendered by this menu</div><br/> <div class="param"> backgroundColor The color for the menu background</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439528" name="drawTitle" parent="WrapBottomMenu" startPc="268439018">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the menu title<br/> <div class="param"> dc Device Context</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268445063" name="&lt;init&gt;" parent="WrapBottomMenu" startPc="268445045">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439551" name="initialize" parent="WrapTopCustomDelegate" startPc="268439529">
+<documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439572" name="onSelect" parent="WrapTopCustomDelegate" startPc="268439552">
+<param id="item"/>
+<documentation><![CDATA[<div class="description"> Handle an item being selected<br/> <div class="param"> item The selected menu item</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439605" name="onBack" parent="WrapTopCustomDelegate" startPc="268439573">
+<documentation><![CDATA[<div class="description"> Handle the back key being pressed<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439650" name="onWrap" parent="WrapTopCustomDelegate" startPc="268439606">
+<param id="key"/>
+<documentation><![CDATA[<div class="description"> Handle the user navigating off the end of the menu<br/> <div class="param"> key The key triggering the menu wrap</div><br/> <div class="returns">Returns  true if wrap is allowed, false otherwise</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439671" name="onFooter" parent="WrapTopCustomDelegate" startPc="268439651">
+<documentation><![CDATA[<div class="description"> Handle the footer being selected<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268445101" name="&lt;init&gt;" parent="WrapTopCustomDelegate" startPc="268445083">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439694" name="initialize" parent="WrapBottomCustomDelegate" startPc="268439672">
+<documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439715" name="onSelect" parent="WrapBottomCustomDelegate" startPc="268439695">
+<param id="item"/>
+<documentation><![CDATA[<div class="description"> Handle an item being selected<br/> <div class="param"> item The selected menu item</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439776" name="onBack" parent="WrapBottomCustomDelegate" startPc="268439716">
+<documentation><![CDATA[<div class="description"> Handle the back key being pressed<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439833" name="onWrap" parent="WrapBottomCustomDelegate" startPc="268439777">
+<param id="key"/>
+<documentation><![CDATA[<div class="description"> Handle the user navigating off the end of the menu<br/> <div class="param"> key The key triggering the menu wrap</div><br/> <div class="returns">Returns  true if wrap is allowed, false otherwise</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439866" name="onTitle" parent="WrapBottomCustomDelegate" startPc="268439834">
+<documentation><![CDATA[<div class="description"> Handle the title being selected<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268444987" name="&lt;init&gt;" parent="WrapBottomCustomDelegate" startPc="268444969">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439917" name="initialize" parent="CustomWrapItem" startPc="268439867">
+<param id="id"/>
+<param id="label"/>
+<param id="textColor"/>
+<documentation><![CDATA[<div class="description"> Constructor<br/> <div class="param"> id The identifier for this item</div><br/> <div class="param"> label Text to display</div><br/> <div class="param"> textColor Color of the text</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268440145" name="draw" parent="CustomWrapItem" startPc="268439918">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the item string at the center of the item.<br/> <div class="param"> dc Device Context</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268445139" name="&lt;init&gt;" parent="CustomWrapItem" startPc="268445121">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268440694" name="pushImagesCustom" startPc="268440146">
+<documentation><![CDATA[<div class="description"> Create the Images custom menu<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268440727" name="initialize" parent="ImagesMenu" startPc="268440695">
+<param id="itemHeight"/>
+<param id="backgroundColor"/>
+<documentation><![CDATA[<div class="description"> Constructor<br/> <div class="param"> itemHeight The pixel height of menu items rendered by this menu</div><br/> <div class="param"> backgroundColor The color for the menu background</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268440988" name="drawTitle" parent="ImagesMenu" startPc="268440728">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the menu title<br/> <div class="param"> dc Device Context</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268444911" name="&lt;init&gt;" parent="ImagesMenu" startPc="268444893">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268441011" name="initialize" parent="ImagesCustomDelegate" startPc="268440989">
+<documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268441032" name="onSelect" parent="ImagesCustomDelegate" startPc="268441012">
+<param id="item"/>
+<documentation><![CDATA[<div class="description"> Handle an item being selected<br/> <div class="param"> item The selected menu item</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268441065" name="onBack" parent="ImagesCustomDelegate" startPc="268441033">
+<documentation><![CDATA[<div class="description"> Handle the back key being pressed<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268445158" name="&lt;init&gt;" parent="ImagesCustomDelegate" startPc="268445140">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268441147" name="initialize" parent="CustomImagesItem" startPc="268441066">
+<param id="id"/>
+<param id="label"/>
+<param id="bitmap"/>
+<documentation><![CDATA[<div class="description"> Constructor<br/> <div class="param"> id The identifier for this item</div><br/> <div class="param"> label Text to display</div><br/> <div class="param"> bitmap Color of the text</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268441425" name="draw" parent="CustomImagesItem" startPc="268441148">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the item's label and bitmap<br/> <div class="param"> dc Device context</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268445177" name="&lt;init&gt;" parent="CustomImagesItem" startPc="268445159">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268441448" name="initialize" parent="Menu2TestDelegate" startPc="268441426">
+<documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268441784" name="onMenu" parent="Menu2TestDelegate" startPc="268441449">
+<documentation><![CDATA[<div class="description"> Handle the menu event<br/> <div class="returns">Returns  true if handled, false otherwise</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268444968" name="&lt;init&gt;" parent="Menu2TestDelegate" startPc="268444950">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268441813" name="initialize" parent="DrawableMenuTitle" startPc="268441785">
+<documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268442157" name="draw" parent="DrawableMenuTitle" startPc="268441814">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the application icon and main menu title<br/> <div class="param"> dc Device Context</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268445025" name="&lt;init&gt;" parent="DrawableMenuTitle" startPc="268445007">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268442180" name="initialize" parent="Menu2TestView" startPc="268442158">
+<documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268442226" name="onLayout" parent="Menu2TestView" startPc="268442181">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/> <div class="param"> dc Device Context</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268442231" name="onShow" parent="Menu2TestView" startPc="268442227">
+<documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268442256" name="onUpdate" parent="Menu2TestView" startPc="268442232">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/> <div class="param"> dc Device Context</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268442261" name="onHide" parent="Menu2TestView" startPc="268442257">
+<documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of this View here. This includes freeing resources from<br/> memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268445196" name="&lt;init&gt;" parent="Menu2TestView" startPc="268445178">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268442844" name="pushBasicCustom" startPc="268442262">
+<documentation><![CDATA[<div class="description"> Create the Basic Drawables custom menu<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268443017" name="initialize" parent="ItemView" startPc="268442845">
+<param id="text"/>
+<documentation><![CDATA[<div class="description"> Constructor<br/> <div class="param"> text The item text</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268443090" name="onUpdate" parent="ItemView" startPc="268443018">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/> <div class="param"> dc Device context</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268445006" name="&lt;init&gt;" parent="ItemView" startPc="268444988">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268443113" name="initialize" parent="BasicCustomDelegate" startPc="268443091">
+<documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268443200" name="onSelect" parent="BasicCustomDelegate" startPc="268443114">
+<param id="item"/>
+<documentation><![CDATA[<div class="description"> Handle an item being selected<br/> <div class="param"> item The selected menu item</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268443233" name="onBack" parent="BasicCustomDelegate" startPc="268443201">
+<documentation><![CDATA[<div class="description"> Handle the back key being pressed<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268443241" name="onWrap" parent="BasicCustomDelegate" startPc="268443234">
+<param id="key"/>
+<documentation><![CDATA[<div class="description"> Handle the user navigating off the end of the menu<br/> <div class="param"> key The key triggering the menu wrap</div><br/> <div class="returns">Returns  true if wrap is allowed, false otherwise</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268445044" name="&lt;init&gt;" parent="BasicCustomDelegate" startPc="268445026">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268443282" name="initialize" parent="CustomItem" startPc="268443242">
+<param id="id"/>
+<param id="text"/>
+<documentation><![CDATA[<div class="description"> Constructor<br/> <div class="param"> id The identifier for this item</div><br/> <div class="param"> text Text to display</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268443650" name="draw" parent="CustomItem" startPc="268443283">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the item string at the center of the item.<br/> <div class="param"> dc Device context</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268443664" name="getLabel" parent="CustomItem" startPc="268443651">
+<documentation><![CDATA[<div class="description"> Get the item label<br/> <div class="returns">Returns  The label</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268444824" name="&lt;init&gt;" parent="CustomItem" startPc="268444806">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268443693" name="initialize" parent="DrawableMenuFooter" startPc="268443665">
+<documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268443772" name="draw" parent="DrawableMenuFooter" startPc="268443694">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw bottom half of the last dividing line below the final item<br/> <div class="param"> dc Device context</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268444949" name="&lt;init&gt;" parent="DrawableMenuFooter" startPc="268444931">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268443795" name="initialize" parent="Menu2Sample" startPc="268443773">
+<documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268443800" name="onStart" parent="Menu2Sample" startPc="268443796">
+<param id="state"/>
+<documentation><![CDATA[<div class="description"> Handle app startup<br/> <div class="param"> state Startup arguments</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268443805" name="onStop" parent="Menu2Sample" startPc="268443801">
+<param id="state"/>
+<documentation><![CDATA[<div class="description"> Handle app shutdown<br/> <div class="param"> state Shutdown arguments</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268443885" name="getInitialView" parent="Menu2Sample" startPc="268443806">
+<documentation><![CDATA[<div class="description"> Return the initial view for the app<br/> <div class="returns">Returns  Array [View, Delegate]</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268445120" name="&lt;init&gt;" parent="Menu2Sample" startPc="268445102">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268443914" name="initialize" parent="MenuForeground" startPc="268443886">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268444023" name="draw" parent="MenuForeground" startPc="268443915">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268444887" name="&lt;init&gt;" parent="MenuForeground" startPc="268444869">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268444868" name="&lt;init&gt;" parent="Drawables" startPc="268444868">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268444889" name="&lt;init&gt;" parent="Fonts" startPc="268444889">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268444891" name="&lt;init&gt;" parent="JsonData" startPc="268444891">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268444559" name="MainLayout" parent="Layouts" startPc="268444024">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268444890" name="&lt;init&gt;" parent="Layouts" startPc="268444890">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268444888" name="&lt;init&gt;" parent="Menus" startPc="268444888">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268444892" name="&lt;init&gt;" parent="Strings" startPc="268444892">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268444867" name="&lt;init&gt;" parent="Rez" startPc="268444844">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
