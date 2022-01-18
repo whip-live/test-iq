@@ -31,11 +31,11 @@ class TestIq extends Application.AppBase {
 
     //! Return the initial view for the app
     //! @return Array [View, Delegate]
-    public function getInitialView() as Array<Views or InputDelegates>? {
-        return [new $.TestIqView(), new $.MenuTestIqDelegate()] as Array<Views or InputDelegates>;
+    public function getInitialView(){
+        return [new $.TestIqView()];
     }
 
     public function startupTimerCallback() as Void {
-        WatchUi.pushView(new $.TestIqMenuView(), null, WatchUi.SLIDE_IMMEDIATE);
+        WatchUi.pushView(new $.TestIqMenu2View(), null, WatchUi.SLIDE_IMMEDIATE);
     }
 }
