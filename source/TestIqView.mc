@@ -27,6 +27,8 @@ class TestIqView extends WatchUi.View {
     //! the state of this View and prepare it to be shown. This includes
     //! loading resources into memory.
     public function onShow() as Void {
+         var _time = new Timer.Timer();
+        _time.start(method(:startupTimerCallback), 2000,  false);
     }
 
     //! Update the view
@@ -40,5 +42,9 @@ class TestIqView extends WatchUi.View {
     //! state of this View here. This includes freeing resources from
     //! memory.
     public function onHide() as Void {
+    }
+
+    public function startupTimerCallback() as Void {
+        WatchUi.pushView(new $.TestIqMenu2View(), null, WatchUi.SLIDE_IMMEDIATE);
     }
 }
