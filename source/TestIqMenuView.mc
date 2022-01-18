@@ -12,9 +12,9 @@ class TestIqMenu2View extends WatchUi.View {
         // Add menu items for demonstrating toggles, checkbox and icon menu items
         // menu.addItem(new WatchUi.MenuItem("Percorsi", "sublabel", "toggle", null));
         menu.addItem(new $.CustomImagesItemWhip(:bear, "Percorsi", WatchUi.loadResource($.Rez.Drawables.bear) as BitmapResource));
-        menu.addItem(new $.CustomImagesItemWhip(null, "Segmenti", null);
-        menu.addItem(new $.CustomImagesItemWhip(null, "Dati", null);
-        menu.addItem(new $.CustomImagesItemWhip(null, "Impostazioni", null);
+        menu.addItem(new $.CustomImagesItemWhip(null, "Segmenti", null));
+        menu.addItem(new $.CustomImagesItemWhip(null, "Dati", null));
+        menu.addItem(new $.CustomImagesItemWhip(null, "Impostazioni", null));
         WatchUi.pushView(menu, new $.Menu2TestMenu2Delegate(), WatchUi.SLIDE_UP);
         return true;
     }
