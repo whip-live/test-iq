@@ -1,7 +1,6 @@
 <resources>
     <layout id="MainLayout">
-        <label x="center" y="10" text="@Strings.AppName" font="Graphics.FONT_MEDIUM" color="Graphics.COLOR_BLUE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
-        <label x="center" y="40" text="@Strings.HomeTitle" font="Graphics.FONT_MEDIUM" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
-        <label x="center" y="center" text="@Strings.Prompt" font="Graphics.FONT_SMALL" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+        <bitmap x="30" y="center" id="logo" filename="../drawables/whip.png"/>
+        <label x="center" y="center" text="@Strings.SplashText" font="Graphics.FONT_SMALL" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_LEFT" />
     </layout>
 </resources>

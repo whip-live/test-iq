@@ -1,6 +1,5 @@
 <strings>
     <string id="AppName">Whip</string>
-    <string id="HomeTitle">Home</string>
-    <string id="Prompt">Press the menu\nbutton to start</string>
+    <string id="SplashText">WHIP</string>
     <string id="MainMenuTitle">Wanda-IQ</string>
 </strings>

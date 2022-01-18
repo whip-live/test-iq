@@ -10,7 +10,7 @@ import Toybox.WatchUi;
 
 //! This is the main view of the application.
 //! This view only exists to push the sample menus.
-class Menu2TestView extends WatchUi.View {
+class TestIqView extends WatchUi.View {
 
     //! Constructor
     public function initialize() {
